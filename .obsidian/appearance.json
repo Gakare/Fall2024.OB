@@ -2,5 +2,7 @@
   "theme": "obsidian",
   "interfaceFontFamily": "Cascadia Mono",
   "textFontFamily": "Helvetica",
-  "monospaceFontFamily": "Cascadia Code"
+  "monospaceFontFamily": "Cascadia Code",
+  "cssTheme": "Minimal",
+  "accentColor": "#9c63bb"
 }

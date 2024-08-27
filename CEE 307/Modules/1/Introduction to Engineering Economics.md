@@ -26,7 +26,7 @@ Examples of applications outside of engineering, i.e., in "daily life"
 * Personal investments
 * Economics of home improvements
 
-<u>The Decision-Making Procedure (Section 1.2 Textbook)</u>
+<u>The Decision-Making Procedure (Section 1.2 Textbook [[Chapter 1 - Green Engineering in Action#1.3 Engineering Economy and the Design Process]])</u>
 1. Problem recognition
 2. Development of feasible alternatives
 3. Development of cash flows and outcomes
