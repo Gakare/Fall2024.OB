@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "d696bfac68adde5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "59575112ccffddd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296e5daa53a8b333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE 307/Modules/1/Introduction to Engineering Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eba2c2ea4793bff1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed28c983e1402e35",
+    "type": "split",
+    "children": [
+      {
+        "id": "567b36621dcfed25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4864e09a6bf775a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e74de9ea9876f56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "910f22f9413728c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8d51bc6c9da7b927",
+    "type": "split",
+    "children": [
+      {
+        "id": "28eed2fa09098893",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a76adfe7edc125",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b6d9136e93ce673",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "464fad90682293ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3274eab7d0f08d68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eba2c2ea4793bff1",
+  "lastOpenFiles": [
+    "CEE 307/Modules/1/Introduction to Engineering Economics.md",
+    "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "CEE 307/Modules/1",
+    "CEE 307/Modules",
+    "CEE 307",
+    "Welcome.md"
+  ]
+}
