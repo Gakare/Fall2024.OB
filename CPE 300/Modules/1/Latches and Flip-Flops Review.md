@@ -34,3 +34,25 @@ endmodule
 ![[Pasted image 20240827135744.png]]
 The <b>assign</b> construct in Verilog is the continuous assignment statement in Verilog which is used in data flow modeling.
 Used to model combinational logic and replaces the gate description of the circuit.
+
+## Verilog structural module for SR
+* Instantiating <b>and, nor</b> (Altera library)
+```verilog
+// A gated RS latch
+module partI(clk, r, s, q);
+	input clk, r, s;
+	output q;
+
+	wire r_g, s_g, qa, qb /* Synthesis keep */*
+
+	and(r_g, r, clk);
+	and(s_g, s, clk);
+	nor(qa, r_g, qb);
+	nor(qb, s_g, qa);
+
+	assign q = qa;
+endmodule
+```
+![[Pasted image 20240827233817.png]]
+## Latches: D latch implementation
+* D latch: based on SR latch

@@ -102,3 +102,9 @@ In the discussion of Principle 1 [[#1.2 The Principles of Engineering Economy]],
 3. Avoid making judgments as new problem definitions are created.
 4. Attempt to redefine a problem in terms that are dramatically different from the original Step 1 problem definition.
 5. Make sure that the *true problem* is well researched and understood.
+[[Examples#Example 1-1 Defining the Problem and Developing Alternatives]]
+
+### 1.3.2.2 Developing Investment Alternatives
+Engineers are at the very heart of creating value for a firm by turning innovative and creative ideas into new or reengineered commercial products and services. Most of these ideas require investment of money, and only a few of all feasible ideas can be developed, due to lack of time, knowledge, or resources.
+
+Consequently, most investment alternatives created by good engineering ideas are drawn from a larger population of equally good problem solutions. Studies have concluded that designers and problem solvers tend to pursue a few ideas that involve "patching and repairing" an old idea. This section outlines two approaches that have found wide acceptance in the industry for developing sound investment alternatives by removing some of the barriers to creative thinking: (1) classical brainstorming and (2) the Nominal Group Technique (NGT).
