@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8d51bc6c9da7b927",
@@ -151,15 +150,15 @@
   "lastOpenFiles": [
     "CPE 300/Modules/1/Verilog Review.md",
     "CPE 300/Modules/1/Latches and Flip-Flops Review.md",
-    "Pasted image 20240827135744.png",
-    "Pasted image 20240827135320.png",
-    "Pasted image 20240827134928.png",
-    "Pasted image 20240827133606.png",
+    "CPE 300/Modules/1/img/Pasted image 20240827123740.png",
+    "CPE 300/Modules/1/img/Pasted image 20240827135744.png",
+    "CPE 300/Modules/1/img/Pasted image 20240827135320.png",
+    "CPE 300/Modules/1/img/Pasted image 20240827134928.png",
     "CPE 300/Modules/1/img/Pasted image 20240827133707.png",
     "CPE 300/Modules/1/img/Pasted image 20240827132602.png",
     "CPE 300/Modules/1/img/Pasted image 20240827132446.png",
+    "Pasted image 20240827133606.png",
     "README.md",
-    "CPE 300/Modules/1/img/Pasted image 20240827123740.png",
     "CPE 300/Modules/1/img",
     "CPE 300/Modules/1",
     "CPE 300/Modules",
