@@ -13,17 +13,14 @@ A few more of the myriad situations in which engineering economy plays a crucial
 3. Making a recommendation about whether jet airplanes for an overnight delivery service should be purchased or leased
 4. Determining the optimal staffing plan for a computer help desk
 This shows that engineering economy involves technical analysis, with emphasis on the economic aspects, and has the objective of assisting decisions. 
-
 # 1.2 The Principles of Engineering Economy
 We define the foundation for engineering economy to be a set of <u>principles</u> that provide a comprehensive doctrine for developing the methodology.
-
 ## <b>Principle 1</b>
 ### <u>Develop the Alternatives</u>
 
 	Carefully define the problem! Then the choice (decision) is among alternatives. The alternatives need to be identified and then defined for subsequent analysis.
 
 A <u>decision situation</u> involves making a choice among two or more alternatives. Developing and defining the alternatives for detailed evaluation is important because of the resulting impact on the quality of the decision.
-
 ## <b>Principle 2</b>
 <font size="4"><u>Focus on the Differences</u></font>
 
@@ -31,12 +28,10 @@ A <u>decision situation</u> involves making a choice among two or more alternati
 
 Only the differences in the future outcomes of the alternatives are important. Outcomes that are common to all alternatives can be disregarded in the comparison and decision.
 The basic purpose of an engineering economic analysis: to recommend a future course of action based on the differences among feasible alternatives.
-
 ## <b>Principle 3</b>
 ### <u>Use a Consistent Viewpoint</u>
 
 	The prospective outcomes of the alternatives, economic and other, should be consistently developed from a defined viewpoint (perspective).
-
 ## <b>Principle 4</b>
 ### <u>Use a Common Unit of Measure</u>
 
@@ -45,28 +40,24 @@ The basic purpose of an engineering economic analysis: to recommend a future cou
 It is desirable to make as many prospective outcomes as possible *commensurable* (directly comparable). For economic consequences, a monetary unit such as dollars is the common measure.
 
 What should you do with the outcomes that are not economic (i.e., the expected consequences that cannot be translated (and estimated) using the monetary)? First, if possible, quantify the expected future results using an appropriate unit of measurements for each outcome. If this is not feasible for one or more outcomes, describe these consequences explicitly so that the information is useful to the decision maker in the comparison of the alternatives.
-
 ## <b>Principle 5</b>
 ### <u>Consider All Relevant Criteria</u>
 
 	Selection of a preferred alternative (decision making) requires the use of a criterion (or several criteria). The decision process should consider both the outcomes enumerated in the monetary unit and those expressed in some other unit of measurement or made explicit in a descriptive manner.
 
 In engineering economic analysis, the primary criterion relates to the long-term financial interests of the owners. This is based on the assumption that available capital will be allocated to provide maximum monetary return to the owners. Often, though, there are other organizational objectives you would like to achieve with your decision, and these should be considered and given weight in the selection of an alternative.
-
 ## <b>Principle 6</b>
 ### <u>Make Risk and Uncertainty Explicit</u>
 
 	Risk and uncertainty are inherent in estimating the future outcomes of the alternatives and should be recognized in their analysis and comparison.
 
 The analysis of the alternatives involves projecting or estimating the future consequences associated with each of them.
-
 ## <b>Principle 7</b>
 ### <u>Revisit Your Decisions</u>
 
 	Improved decision making results from an adaptive process; to the extent practical, the initial projected outcomes of the selected alternative should be subsequently compared with actual results achieved.
 
 The evaluation of results versus the initial estimate of outcomes for the selected alternative is often considered impracticable or not worth the effort. Too often, no feedback to the decision-making process occurs. Organizational discipline is needed to ensure that implemented decisions are routinely post-evaluated and that the results are used to improve future analyses and the quality of decision making. 
-
 # 1.3 Engineering Economy and the Design Process
 
 	An engineering economy study is accomplished using a structured procedure and mathematical modeling techniques. The economic results are then used in a decision situation that normally includes other engineering knowledge and input.

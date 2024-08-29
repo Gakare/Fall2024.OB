@@ -11,8 +11,36 @@
             "id": "5eb47972b807bced",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CEE 307/Modules/1/Examples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60a34aaeb978c601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE 307/Modules/1/Introduction to Engineering Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d9b7ff5d768c0af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +110,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "CEE 307/Modules/1/Examples.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -98,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CEE 307/Modules/1/Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CEE 307/Modules/1/Examples.md"
+              }
             }
           }
         ]
@@ -141,10 +173,10 @@
   },
   "active": "5eb47972b807bced",
   "lastOpenFiles": [
+    "CEE 307/Modules/1/Introduction to Engineering Economics.md",
     "CEE 307/Modules/1/Examples.md",
     "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md",
     "Untitled.md",
-    "CEE 307/Modules/1/Introduction to Engineering Economics.md",
     "CPE 300/Modules/1/Latches and Flip-Flops Review.md",
     "CPE 300/Modules/1/img/Pasted image 20240827233817.png",
     "CPE 300/Modules/1/Verilog Review.md",

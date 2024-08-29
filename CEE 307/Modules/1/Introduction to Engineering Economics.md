@@ -1,4 +1,4 @@
-<b><u>What is Engineering Economics?</u></b>
+# <b><u>What is Engineering Economics?</u></b>
 * Engineering economics is the study of the concepts and procedures for economic analysis and evaluation of engineering projects
 * Key concept: Analysis of time value of money and its effects on
 	* alternative project designs, implementation and/or operational strategies
@@ -7,8 +7,7 @@
 	* Decide whether or not to carry out a project
 	* Choose between mutually exclusive projects
 	* Choose among independent projects, i.e., capital budgeting
-
-<b><u>Procedures in Engineering Economics?</u></b>
+# <b><u>Procedures in Engineering Economics?</u></b>
 Some Basic issues:
 * Identification and quantification of life-cycle benefits and costs project or project alternatives
 * Comparative analysis of the benefits and costs while taking into account
@@ -26,7 +25,7 @@ Examples of applications outside of engineering, i.e., in "daily life"
 * Personal investments
 * Economics of home improvements
 
-<u>The Decision-Making Procedure (Section 1.2 Textbook [[Chapter 1 - Green Engineering in Action#1.3 Engineering Economy and the Design Process]])</u>
+<u>The Decision-Making Procedure</u> (Section 1.3 Textbook [[Chapter 1 - Green Engineering in Action#1.3 Engineering Economy and the Design Process|Engineering Economy and the Design Process]])
 1. Problem recognition
 2. Development of feasible alternatives
 3. Development of cash flows and outcomes
