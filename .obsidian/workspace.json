@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c6818f4f626897be",
+        "id": "b0cc173f64daade5",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD
             "id": "5fe6d8a00d91a32b",
+=======
+            "id": "c28c2e6532f065a6",
+>>>>>>> 41f33b8 (This is going to be interesting)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "CPE 300/Live Lecture/8-29-24.md",
+=======
+                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
+>>>>>>> 41f33b8 (This is going to be interesting)
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +94,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "CPE 300/Live Lecture/8-29-24.md",
+=======
+                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
+>>>>>>> 41f33b8 (This is going to be interesting)
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "CPE 300/Live Lecture/8-29-24.md",
+=======
+                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
+>>>>>>> 41f33b8 (This is going to be interesting)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +142,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "CPE 300/Live Lecture/8-29-24.md"
+=======
+                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md"
+>>>>>>> 41f33b8 (This is going to be interesting)
               }
             }
           }
@@ -147,6 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "d4864e09a6bf775a",
   "lastOpenFiles": [
     "README.md",
@@ -169,13 +190,38 @@
     "Pasted image 20240827133606.png",
     "CPE 300/Modules/1/img",
     "CPE 300/Modules/1",
+=======
+  "active": "c28c2e6532f065a6",
+  "lastOpenFiles": [
+    "CEE 307/Modules/1 - Introduction to Engineering Economics/Introduction to Engineering Economics.md",
+    "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
+    "MATH 251/Modules/1 - Logics and Proofs",
+    "MATH 251/Modules",
+    "MATH 251",
+    "CEE 307/Modules/1 - Introduction to Engineering Economics/Chapter 1 - Green Engineering in Action.md",
+    "CEE 307/Modules/1 - Introduction to Engineering Economics/Examples.md",
+    "CPE 300/Modules/1 - Review/Latches and Flip-Flops Review.md",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827233817.png",
+    "CPE 300/Modules/1 - Review/Verilog Review.md",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827123740.png",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827135744.png",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827135320.png",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827134928.png",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827133707.png",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827132602.png",
+    "CPE 300/Modules/1 - Review/img/Pasted image 20240827132446.png",
+    "Pasted image 20240827133606.png",
+    "README.md",
+    "CPE 300/Modules/1 - Review/img",
+    "CPE 300/Modules/1 - Review",
+>>>>>>> 41f33b8 (This is going to be interesting)
     "CPE 300/Modules",
     "CPE 300",
     "Pasted image 20240827101723.png",
     "Untitled 2.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "CEE 307/Modules/1",
+    "CEE 307/Modules/1 - Introduction to Engineering Economics",
     "CEE 307/Modules",
     "CEE 307",
     "Welcome.md"
