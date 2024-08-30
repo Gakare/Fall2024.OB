@@ -1,27 +1,29 @@
 {
   "main": {
-    "id": "d696bfac68adde5e",
+    "id": "a2ff9722dd8e4312",
     "type": "split",
     "children": [
       {
-        "id": "b0cc173f64daade5",
+        "id": "22c65996edbba2c9",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "5fe6d8a00d91a32b",
-=======
-            "id": "c28c2e6532f065a6",
->>>>>>> 41f33b8 (This is going to be interesting)
+            "id": "00ff7ac2f3148dbd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "MATH 251/Assignments/1.1.md"
+              }
+            }
+          },
+          {
+            "id": "45c5bc130a6cc111",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE 300/Live Lecture/8-29-24.md",
-=======
                 "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
->>>>>>> 41f33b8 (This is going to be interesting)
                 "mode": "source",
                 "source": false
               }
@@ -33,15 +35,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed28c983e1402e35",
+    "id": "13b3161ebb833b30",
     "type": "split",
     "children": [
       {
-        "id": "567b36621dcfed25",
+        "id": "9194da3fccf25656",
         "type": "tabs",
         "children": [
           {
-            "id": "d4864e09a6bf775a",
+            "id": "8f50dbc86c5de6ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +53,7 @@
             }
           },
           {
-            "id": "6e74de9ea9876f56",
+            "id": "301e1f0677956002",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +68,7 @@
             }
           },
           {
-            "id": "910f22f9413728c4",
+            "id": "b1f8df08cb971231",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,25 +83,21 @@
     "collapsed": true
   },
   "right": {
-    "id": "8d51bc6c9da7b927",
+    "id": "aeecaad2689e8a3e",
     "type": "split",
     "children": [
       {
-        "id": "28eed2fa09098893",
+        "id": "939de592b3541b34",
         "type": "tabs",
         "children": [
           {
-            "id": "26a76adfe7edc125",
+            "id": "55371644a532380b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE 300/Live Lecture/8-29-24.md",
-=======
-                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
->>>>>>> 41f33b8 (This is going to be interesting)
-                "collapseAll": true,
+                "file": "MATH 251/Assignments/1.1.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -110,23 +108,19 @@
             }
           },
           {
-            "id": "3b6d9136e93ce673",
+            "id": "ec73145bbd8e2bbb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE 300/Live Lecture/8-29-24.md",
-=======
-                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
->>>>>>> 41f33b8 (This is going to be interesting)
+                "file": "MATH 251/Assignments/1.1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "464fad90682293ea",
+            "id": "a15c78313221b4dc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,16 +131,12 @@
             }
           },
           {
-            "id": "3274eab7d0f08d68",
+            "id": "65e0627e6dd95d2d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE 300/Live Lecture/8-29-24.md"
-=======
-                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md"
->>>>>>> 41f33b8 (This is going to be interesting)
+                "file": "MATH 251/Assignments/1.1.md"
               }
             }
           }
@@ -164,66 +154,22 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "d4864e09a6bf775a",
+  "active": "00ff7ac2f3148dbd",
   "lastOpenFiles": [
-    "README.md",
-    "CPE 300/Live Lecture/8-29-24.md",
-    "Big.md",
-    "CEE 307/Modules/1/Examples.md",
-    "CPE 300/Live Lecture",
-    "CEE 307/Modules/1/Introduction to Engineering Economics.md",
-    "CEE 307/Modules/1/Chapter 1 - Green Engineering in Action.md",
-    "CPE 300/Modules/1/Latches and Flip-Flops Review.md",
-    "CPE 300/Modules/1/img/Pasted image 20240827233817.png",
-    "CPE 300/Modules/1/Verilog Review.md",
-    "CPE 300/Modules/1/img/Pasted image 20240827123740.png",
-    "CPE 300/Modules/1/img/Pasted image 20240827135744.png",
-    "CPE 300/Modules/1/img/Pasted image 20240827135320.png",
-    "CPE 300/Modules/1/img/Pasted image 20240827134928.png",
-    "CPE 300/Modules/1/img/Pasted image 20240827133707.png",
-    "CPE 300/Modules/1/img/Pasted image 20240827132602.png",
-    "CPE 300/Modules/1/img/Pasted image 20240827132446.png",
-    "Pasted image 20240827133606.png",
-    "CPE 300/Modules/1/img",
-    "CPE 300/Modules/1",
-=======
-  "active": "c28c2e6532f065a6",
-  "lastOpenFiles": [
-    "CEE 307/Modules/1 - Introduction to Engineering Economics/Introduction to Engineering Economics.md",
     "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
-    "MATH 251/Modules/1 - Logics and Proofs",
-    "MATH 251/Modules",
-    "MATH 251",
-    "CEE 307/Modules/1 - Introduction to Engineering Economics/Chapter 1 - Green Engineering in Action.md",
-    "CEE 307/Modules/1 - Introduction to Engineering Economics/Examples.md",
-    "CPE 300/Modules/1 - Review/Latches and Flip-Flops Review.md",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827233817.png",
-    "CPE 300/Modules/1 - Review/Verilog Review.md",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827123740.png",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827135744.png",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827135320.png",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827134928.png",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827133707.png",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827132602.png",
-    "CPE 300/Modules/1 - Review/img/Pasted image 20240827132446.png",
-    "Pasted image 20240827133606.png",
+    "MATH 251/Assignments/1.1.md",
+    "Pasted Image 20240829232942_593.png",
+    "Excalidraw/images/Pasted image 20240829232819.png",
+    "Excalidraw/images/Pasted image 20240829225751.png",
     "README.md",
-    "CPE 300/Modules/1 - Review/img",
-    "CPE 300/Modules/1 - Review",
->>>>>>> 41f33b8 (This is going to be interesting)
-    "CPE 300/Modules",
-    "CPE 300",
-    "Pasted image 20240827101723.png",
-    "Untitled 2.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "CEE 307/Modules/1 - Introduction to Engineering Economics",
-    "CEE 307/Modules",
-    "CEE 307",
-    "Welcome.md"
+    "Pasted Image 20240829230257_717.png",
+    "Excalidraw/images",
+    "MATH 251/Assignments",
+    "Excalidraw/Drawing 2024-08-29 22.08.35.excalidraw.md",
+    "Excalidraw"
   ]
 }

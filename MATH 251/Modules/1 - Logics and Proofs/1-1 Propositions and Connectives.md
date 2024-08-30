@@ -53,7 +53,8 @@ In practice, we don't need make a complete truth table to determine the truth va
 	A tautology is a propositional form that is true for every assignment of truth values to its components.
 	A contradiction is a propositional form that is false for every assignment of truth values to its components.
 The *Law of Excluded Middle,* P v ~P, is an example of a tautology because it is true when P is true and true when P is false.
-## Example: Prove that (P v Q) v (~P ^ ~Q) is a tautology
+## Example: 1.1.3
+	Prove that (P v Q) v (~P ^ ~Q) is a tautology
 
 | P   | Q   | P v Q | ~P  | ~Q  | ~P ^ ~Q | (P v Q)  v (~P ^ ~Q) |
 | --- | --- | ----- | --- | --- | ------- | -------------------- |
@@ -75,6 +76,44 @@ Particularly important in writing proofs will be the ability to recognize or wri
 | (g) P v (Q v R) | and (P v Q) ^ (P v R) | Distributive Laws   |
 | (h) ~(P ^ Q)    | and ~P v ~Q           | DeMorgan's Laws     |
 | (i) ~(P v Q)    | and ~P ^ ~Q           | DeMorgan's Laws     |
+
 As an example of how this [[1-1 Propositions and Connectives#Theorem 1.1.1 for propositions P, Q, and R, the following are equivalent|theorem]] might be useful, suppose that for some integer $x$ we have determined that the statement "$x$ is even and $x>10$" is not true.
 Then its negation,
 	"It is not the case that the integer $x$ is even and $x>10$,"
+is true and has the form ~(P ^ Q), where P is "x is even" and Q is "x > 10." By part (h) of Theorem 1.1.1 this is equivalent to ~P v ~Q, which is
+	"It is not the case that $x$ is even or it is not the case that $x > 10$."
+An easier way to say this is
+	"$x$ is not even or $x$ is not greater than 10,"
+which may be restated as
+	"$x$ is odd or or $x \le 10$."
+A **denial** of a proposition *P* is any proposition equivalent to *~P*. A proposition has only one negation, *~P*, but always has many denials, including *~P*, \~\~\~P, \~\~\~\~\~\~P, etc. Some denials of "$x$ is odd" are "$x$ is not odd", "$x$ is even", and "$x$ is divisble by 2". DeMorgan's Laws provide other ways to construct useful denials.
+==In other words a denial is a proposition that denies the original proposition and that there can be multiple ways of denying that proposition.==
+## Examples 1.1.4
+A denial of "Either the defendent paid a fine or the judge declared a mistrial" is
+	The judge did not declare a mistrial and the defendent did not pay a fine."
+- ### P = "The defendant paid a fine"
+- ### J = "The judge declared a mistrial"
+- ### ~P = "The defendent did not pay a fine"
+- ### ~J = "The judge did not declare a mistrial"
+This can be verified by first writing the two sentences symbolically as P v J and (~J) ^ (~P), respectively. Then we observe that P v J is equivalent to J v P, so a denial of P v J is equivalent to ~(J v P), which we know by DeMorgan's Laws is equivalent to (~J) ^ (~P). We could also verify that the sentence is a denial by checking the truth tables for P v J and (~J) ^ (~P) have exactly opposite values.
+## Examples 1.1.5
+Suppose $L_1$ and $L_2$ are two lines in a coordinate system. Find a denial of the statement
+	"$L_1$ and $L_2$ have the same slope or $L_1$ and $L_2$ are vertical lines."
+- ###  S = "$L_1$ and $L_2$ have the same slope,"
+- ### P = "$L_1$ is a vertical line"
+- ### Q = "$L_2$ is a vertical line"
+The mathematical concepts expressed determine the form of the statement. The component S cannot mean "$L_1$ has the same slope" and "$L_2$ has the same slope". However, "$L_1$ and $L_2$ are vertical lines" must mean Component P and Q. The correct symbolization is S v (P ^ Q).
+The negation of the statement is ~\[S V (P ^ Q)], which is equivalent to ~S ^ ~(P ^ Q). This form, in turn, is equivalent to ~S ^ (~P v ~Q). The denial proposition would then be:
+	"$L_1$ and $L_2$ do not have the same slope, and either $L_1$ is not a vertical line or $L_2$ is not a vertical line."
+
+Does someone who says, "Not P or Q" mean "Neither P nor Q" or "Either not P or else Q"? That is, should the symbolic translation be ~(P v Q) or (~P) v Q? The two translations are not equivalent. Ambiguities like this cannot be tolerated where precision matters.
+Propositional forms are often written without all the parentheses you might expect. To correctly understand such a form, use these rules:
+-  **~** always is applied to the smallest proposition following it.
+-  **^** connects the smallest propositions surrounding it.
+-  **v** connects the smallest propositions surrounding it.
+Also when the same connective is used two or more times in succession, parentheses are restored from the left. Thus, ~P v Q is an abbreviation for (~P) v Q,  but ~(P v Q) is the only way to write the negation of P v Q. Here are some other examples:
+- ~P v ~Q abbreviates (~P) v (~Q)
+- P v Q ^ R abbreviates P v (Q ^ R)
+- P ^ ~Q v ~R abbreviates \[P ^ (~Q)] v (~R)
+- R ^ P ^ S ^ Q abbreviates \[(R ^ P) ^ S] ^ Q
+- ![[Pasted image 20240829225751.png]]

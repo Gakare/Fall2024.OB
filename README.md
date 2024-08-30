@@ -4,5 +4,6 @@ Classes:
 - CPE 300
 - MATH 251
 - PHYS 196
+
 To Do(s):
-- [ ] Assignment 1 Due Sunday
+- [ ] Assignment 1 For CEE Due Sunday
