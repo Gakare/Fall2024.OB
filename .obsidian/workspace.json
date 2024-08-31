@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "22c65996edbba2c9",
+        "id": "d0151053595bf55c",
         "type": "tabs",
         "children": [
           {
-            "id": "00ff7ac2f3148dbd",
+            "id": "81040e518f69bee5",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "MATH 251/Assignments/1.1.md"
-              }
-            }
-          },
-          {
-            "id": "45c5bc130a6cc111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -158,17 +146,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00ff7ac2f3148dbd",
+  "active": "81040e518f69bee5",
   "lastOpenFiles": [
-    "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
     "MATH 251/Assignments/1.1.md",
+    "MATH 251/Assignments",
+    "1.1.md",
+    "MATH 251/Modules/1 - Logics and Proofs/1-1 Propositions and Connectives.md",
     "Pasted Image 20240829232942_593.png",
     "Excalidraw/images/Pasted image 20240829232819.png",
     "Excalidraw/images/Pasted image 20240829225751.png",
     "README.md",
     "Pasted Image 20240829230257_717.png",
     "Excalidraw/images",
-    "MATH 251/Assignments",
     "Excalidraw/Drawing 2024-08-29 22.08.35.excalidraw.md",
     "Excalidraw"
   ]
