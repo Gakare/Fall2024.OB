@@ -6,4 +6,4 @@ Classes:
 - PHYS 196
 
 To Do(s):
-- [ ] Assignment 1 For CEE Due Sunday
+- [x] Assignment 1 For CEE Due Sunday

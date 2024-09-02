@@ -93,7 +93,7 @@ In the discussion of [[#1.2 The Principles of Engineering Economy#<b>Principle 1
 3. Avoid making judgments as new problem definitions are created.
 4. Attempt to redefine a problem in terms that are dramatically different from the original Step 1 problem definition.
 5. Make sure that the *true problem* is well researched and understood.
-See [[Examples#Example 1-1 Defining the Problem and Developing Alternatives|Example 1-1]]
+See [[CEE_307/Modules/1_-_Introduction_to_Engineering_Economics/Examples#Example 1-1 Defining the Problem and Developing Alternatives|Example 1-1]]
 
 ### 1.3.2.2 Developing Investment Alternatives
 Engineers are at the very heart of creating value for a firm by turning innovative and creative ideas into new or reengineered commercial products and services. Most of these ideas require investment of money, and only a few of all feasible ideas can be developed, due to lack of time, knowledge, or resources.

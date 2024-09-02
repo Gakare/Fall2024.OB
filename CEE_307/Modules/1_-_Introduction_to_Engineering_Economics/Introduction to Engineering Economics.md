@@ -14,7 +14,7 @@ Some Basic issues:
 	* the of time value of money
 	* the effects of depreciation, taxes, inflation and uncertainty
 
-<b><u>Applications of Engineering Economics</u></b>
+# <b><u>Applications of Engineering Economics</u></b>
 In Engineering Design: Choice between different
 * Materials used in production
 * Product designs
@@ -25,7 +25,7 @@ Examples of applications outside of engineering, i.e., in "daily life"
 * Personal investments
 * Economics of home improvements
 
-<u>The Decision-Making Procedure</u> (Section 1.3 Textbook [[Chapter 1 - Green Engineering in Action#1.3 Engineering Economy and the Design Process|Engineering Economy and the Design Process]])
+# <u>The Decision-Making Procedure</u> (Section 1.3 Textbook [[Chapter 1 - Green Engineering in Action#1.3 Engineering Economy and the Design Process|Engineering Economy and the Design Process]])
 1. Problem recognition
 2. Development of feasible alternatives
 3. Development of cash flows and outcomes
@@ -34,7 +34,7 @@ Examples of applications outside of engineering, i.e., in "daily life"
 6. Selection of preferred alternative
 7. Performance Monitoring and Post-evaluation
 
-<u>Applications  of Engineering Economics</u>
+# <u>Applications  of Engineering Economics</u>
 Principles Governing the Engineering Economics Procedure (Section 1.3 Textbook)
 1. Develop the alternatives
 2. Focus on the differences
