@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "15d1b4450a7a66c6",
+        "id": "4de342945f29b404",
         "type": "tabs",
         "children": [
           {
-            "id": "8a716dc5fdc4a8cf",
+            "id": "b98d5e7500193f64",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1-1 Propositions and Connective.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1-1 Propositions and Connective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1-1 Propositions and Connective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1-1 Propositions and Connective.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +140,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a716dc5fdc4a8cf",
+  "active": "b98d5e7500193f64",
   "lastOpenFiles": [
-    "MATH_251/Assignments/1.1.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/Learning Objective.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/Introduction to the concept of the time-value of money and compound interest formulae.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_3b.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_3a.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_2.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_1.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img",
+    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Learning Objectives.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money",
     "MATH_251/Modules/1_-_Logics_and_Proofs/1-1 Propositions and Connective.md",
+    "MATH_251/Assignments/1.1.md",
     "README.md~",
     "CPE_300/Live_Lecture/8-29-24.md",
     "CPE_300/Modules/1_-_Review/Latches and Flip-Flops Review.md",
@@ -164,16 +166,10 @@
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Examples.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Figure_7.png",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Example_4.png",
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Learning Objectives.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Example_3.png",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Figure_6.png",
     "Pasted Image 20240901141112_699.png",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Example_2.png",
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Figure_10.png",
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Figure_9.png",
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Figure_8.png",
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Demand_Function.png",
-    "Untitled.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies",
     "MATH_251/Assignments",
