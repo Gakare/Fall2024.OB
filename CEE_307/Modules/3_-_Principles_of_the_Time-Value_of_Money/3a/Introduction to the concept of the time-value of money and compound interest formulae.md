@@ -60,3 +60,11 @@ This confirms the accuracy of the estimate obtained using the Rule of 72.
 - The *concept of equivalence enables on to compare the "values" of cash flows that occur at different points in time.
 - These could be single cash flows at different points in time, or a series of cash flows over several periods
 - The following two examples illustrate this concept
+## Example 4A: Present Worth and Future Worth concepts
+If you invest $2,000 today in an account that earns an interest rate 5% per year, how much mony will you have in the account after 4 years?
+	$F_N=P(1+i)^N=\$2,000(1+0.05)^4=\$2,431$
+Then, using the concept of equivalence, the following statement can be made regarding this scenario:
+	The $2,000 you have today is __*equivalent to*__ the $2,431 that you can have 4 years from now. In other words you would be indifferent between the choice of having $2,000 today or waiting to get $2,431 four years from now.
+You can also make the following alternative statements:
+	$2,431 is the 4-year __*future worth*__ of today's $2,000; or alternatively,
+	$2,000 is the __*present worth*__ of a 4-year future $2,431 cash flow.
