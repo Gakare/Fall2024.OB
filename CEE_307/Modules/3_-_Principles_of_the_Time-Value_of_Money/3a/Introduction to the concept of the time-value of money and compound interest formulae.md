@@ -99,4 +99,30 @@ This section presents the derivation of a number of formulas relating different 
 	$N$ = number of compounding periods (or length of analysis, in periods)
 	$P$ = present sum of money or cash flow at period $N$
 	$A$ = uniform regular end-of-period cash flows from period 1 to $N$.
+# Cash-flow diagram
+A cash flow diagram is a schematic representation of the project cash flows over time. Typically, the x-axis represents time periods and each cash flow is placed at an appropriate time period and represented by a vertical arrow either facing upwwards for positive cash flows, or downwards for negative cash flows.
 
+# Sign convention of cash flows in a cash-flow diagrams
+- Cost or expenditures are considered "**negative**" cash flows and are represented by "downard-pointing" arrows.
+- Revenues or incomes are considered "**positive**" cash flows and are represented by "upward-pointing" arrows.
+Whether a cash flow is positive or negative often depends on the **point of view**.
+
+For example a loan from a bank to a customer is a positive cash flow to the customer, but a negative cash flow to the bank.
+On the other hand, when the customer starts paying-off the loan, the payments are negative cash flows to the customer, but positive cash flows to the bank.
+Therefore, when drawing cash flow diagrams, one has to be clear on from whose point of view the cash flow diagram is being drawn.
+
+For example, a bank loan from the point of view of the client (i.e., recipient of the loan) will have the loan amount as a positive cash flow (upward pointing arrow), and the monthly loan payments as negative cash flows (downward pointing arrows).
+Cash Flow Diagram (CFD) for a bank loan:
+(INSERT DRAWING HERE)
+
+Note that
+- The diagram shows that the loan has to be paid back in 36 uniform monthly payments, A, at a monthly interest rate of $\frac{1}{2}\%$. The payment start 1 month after receiving the loan.
+- This CFD is drawn from the <u>point of view of the client</u> who gets the loan, hence, the loan, P, is a positive cash flow to the client, therefore an upward-pointing arrow. On the other hand, the payments, A, are costs and therefore negative cash flows represented by a series of downward-pointing arrows from month 1 to 36.
+
+## 3.4.2 Compound interest formulae for single cash flows P and F
+(INSERT DRAWING HERE)
+**Finding the future worth, F, given P, i, N**
+$F=P(1+i)^N$
+The factor $(1+i)^N$ is referred to as the "**compound amount factor**".
+It is usually denoted as (F/P, i, N) and stated as "finding F given P, i and N", i.e.,
+$F=P(F/P,i,N)=P(1+i)^N$
