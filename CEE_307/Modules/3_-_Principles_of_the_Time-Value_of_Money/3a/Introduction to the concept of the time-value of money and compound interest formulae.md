@@ -61,10 +61,42 @@ This confirms the accuracy of the estimate obtained using the Rule of 72.
 - These could be single cash flows at different points in time, or a series of cash flows over several periods
 - The following two examples illustrate this concept
 ## Example 4A: Present Worth and Future Worth concepts
-If you invest $2,000 today in an account that earns an interest rate 5% per year, how much mony will you have in the account after 4 years?
+If you invest $2,000 today in an account that earns an interest rate 5% per year, how much money will you have in the account after 4 years?
+![[Pasted image 20240903212227.png]]
 	$F_N=P(1+i)^N=\$2,000(1+0.05)^4=\$2,431$
 Then, using the concept of equivalence, the following statement can be made regarding this scenario:
 	The $2,000 you have today is __*equivalent to*__ the $2,431 that you can have 4 years from now. In other words you would be indifferent between the choice of having $2,000 today or waiting to get $2,431 four years from now.
 You can also make the following alternative statements:
 	$2,431 is the 4-year __*future worth*__ of today's $2,000; or alternatively,
 	$2,000 is the __*present worth*__ of a 4-year future $2,431 cash flow.
+Note that:
+	The **future worth** of initial principal P is equal to $F=P(1+i)^N$, or
+	The **present worth** of a future cash flow F is equal to $P=F(1+i)^{-N}$
+## Example 5A: Comparing alternative investment scenarios using the "concept of equivalence"
+Calculate the equivalent present worth of each of the following two alternatives based on an annual interest rate of 8% and compare them.
+
+|                           |           Alternative 1 |           Alternative 2 |
+| ------------------------- | ----------------------: | ----------------------: |
+| Initial investment cost   |                 $10,000 |                 $10,000 |
+| Revenue end of year 1     |                  $7,500 |                  $1,500 |
+| Revenue end of year 2     |                  $4,000 |                  $4,000 |
+| Revenue end of year 3     |                  $1,500 |                  $7,500 |
+| Net revenue after 3 years | \$13,000-10,000=\$3,000 | \$13,000-10,000=\$3,000 |
+Note that both alternatives have the same net revenue of \$3,000 after three years. However, the timing of the annual revenues is different. Alternative 1 has larger revenues early while Alternative 2 has larger revenues late. Therefore, these two alternatives may have different net profit if the time-value of money is applied. Therefore, to compare the alternatives we will compute the present worth of each alternative and compare them.
+
+Based on the interest rate of 8% per year, the present worth (PW) of each alternative is equal to the sum of the PW of the individual future revenues minus the initial cost, i.e.,
+![[Ex_5A.png]]
+i.e., Alternative 1 cash flows have an *equivalent present worth* of $1,564, and the Alternative 2 cash flows have an *equivalent present worth of* only $772. This means that Alternative 1 should be preferred, since it has a higher equivalent present worth. This makes sense, since money now is generally worth more than the same amount years later. And since Alternative 1 has larger revenues early on, it makes sense for it to be the more economical alternative.
+
+Thus, using the concept of equivalence, we have been able to reduce the series of cash flows for each alternative into one equivalent present worth value which takes into account the time value of money by applying an interest rate. The alternatives can then be more readily compared and choice made on a more economical alternative.
+
+# 3.4 Derivation Of Compound Interest Rate Formulae:
+## 3.4.1 Introduction - Symbolic notations, cash flow diagrams and sign convention
+This section presents the derivation of a number of formulas relating different types of cash flows with the interest rate per period and the number of periods
+
+**Symbolic notation of cash flows parameters**
+	$i$ = effective interest rate per period
+	$N$ = number of compounding periods (or length of analysis, in periods)
+	$P$ = present sum of money or cash flow at period $N$
+	$A$ = uniform regular end-of-period cash flows from period 1 to $N$.
+
