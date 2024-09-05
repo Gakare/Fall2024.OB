@@ -120,9 +120,43 @@ Note that
 - This CFD is drawn from the <u>point of view of the client</u> who gets the loan, hence, the loan, P, is a positive cash flow to the client, therefore an upward-pointing arrow. On the other hand, the payments, A, are costs and therefore negative cash flows represented by a series of downward-pointing arrows from month 1 to 36.
 
 ## 3.4.2 Compound interest formulae for single cash flows P and F
-(INSERT DRAWING HERE)
-**Finding the future worth, F, given P, i, N**
+Cash flow diagram:
+![[single_cash_flows.png]]
+## Finding the future worth, F, given P, i, N
 $F=P(1+i)^N$
 The factor $(1+i)^N$ is referred to as the "**compound amount factor**".
 It is usually denoted as (F/P, i, N) and stated as "finding F given P, i and N", i.e.,
 $F=P(F/P,i,N)=P(1+i)^N$
+
+## Finding the present worth, P, given F, i, N
+$P=F(1+i)^{-N}$
+The factor (1+i)^{-N} is referred to as the "present worth factor".
+It is usually denoted as (P/F, i, N) and stated as "finding P given F, i, and N", i.e.,
+$P=F(P/F,i,N)=F(1+i)^{-N}$
+
+## 3.4.3 Compound interest formulae relating cash flows A and F
+Cash flow diagram
+![[cash_flows_A_andF.png]]
+Note that the uniform periodic cash flows A start from period 1 and continue up to period N.
+
+**Finding the future worth, F, of a uniform series cash flows, A, given i, and N**
+The future worth is equal to the sum of the future worth of each individual A. By treating each individual A that occurs in period K, we can find its future worth by using the "compound amount factor" with the appropriate number of periods from k to N.
+$F'=A(1+i)^{N-k}$
+Summing the future worths of all the A's from $K=1$ to $K=N$, we get
+$F=A(1+i)^{N-1}+A(1+i)^{N-2}+...+A(1+i)^{N-N}$
+$=A\sum_{k=0}^{N-1}(1+i)^k$
+
+This is a geometric series of the form { $a+ar+ar^2+ar^3+...+ar^N$}
+
+The sum of a geometric series, $S_N$, is given as
+$S_N=\frac{\text{first term}-\text{ratio}*\text{last term}}{1-\text{ratio}}$, where the geometric ratio, $r=\frac{1}{1+i}$.
+
+Therefore:
+# $F=A[\frac{(1+i)^N-\frac{1}{(1+i)}(1+i)^0}{1-\frac{1}{(1+i)}}]$
+which simplifies to
+# $F=A[\frac{(1+i)^N-1}{i}]$
+
+The factor $[\frac{(1+i)^N-1}{i}]$ is referred to as the "**uniform series compound amount factor**" and is usually denoted as (F/A, i, N) and stated as "finding F given A, i, and N", i.e.,
+# $F=A(F/A,i,N)=A[\frac{(1+i)^N-1}{i}]$
+
+## Finding the uniform periodic worth, $A$, of a future cash flow, $F$, given $i$, and $N$
