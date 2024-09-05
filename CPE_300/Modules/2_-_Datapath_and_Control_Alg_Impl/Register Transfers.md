@@ -26,3 +26,7 @@ Data transfer
 	- $R_x\leftarrow R_y+R_x$
 	- $R_x\leftarrow R_y+R_z$
 - Each of the above statements are implemented in one cycle (Clock period).
+# Gated Register Transfers
+![[GRT.png]]
+- A $\leftarrow$ C, and B $\leftarrow$ C can occur together
+- But not A $\leftarrow$ C and A $\leftarrow$ D, or B $\leftarrow D$ and A $\leftarrow$ C

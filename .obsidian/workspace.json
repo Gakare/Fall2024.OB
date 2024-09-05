@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cb0d7a487d8a6eb",
+        "id": "fbf44a255468762e",
         "type": "tabs",
         "children": [
           {
-            "id": "a0f2cfef2a88e6ec",
+            "id": "f47ad3edcec5d874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 481.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md"
               }
             }
           }
@@ -139,7 +139,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,22 +149,26 @@
   },
   "active": "8f50dbc86c5de6ee",
   "lastOpenFiles": [
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/single_cash_flows.png",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_5A.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/GRT.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img",
+    "Pasted image 20240905124300.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/cash_flows_A_andF.png",
-    "Pasted image 20240904234718.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_CFD.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/CFD_PAPAAIN.png",
+    "README.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_4A.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/CFD_FPFPIN.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/Introduction to the concept of the time-value of money and compound interest formulae.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/CFD_FAFAIN.png",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/Learning Objective.md",
     "MATH_251/Modules/1_-_Logics_and_Proofs/1.1 Propositions and Connective.md",
     "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_4A.png",
-    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_5A.png",
     "CPE_300/Live_Lecture/8-29-24.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_3b.png",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_3a.png",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_2.png",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img/Ex_1.png",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Learning Objectives.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a",
@@ -180,14 +183,11 @@
     "CEE_307/Modules/1_-_Introduction_to_Engineering_Economics/Examples.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Cost Concepts and Present Economy Studies Lecture.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Examples.md",
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img/Figure_7.png",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies",
     "MATH_251/Assignments",
     "1.1.md",
-    "README.md",
     "Excalidraw/images",
-    "Excalidraw/Drawing 2024-08-29 22.08.35.excalidraw.md",
-    "Excalidraw"
+    "Excalidraw/Drawing 2024-08-29 22.08.35.excalidraw.md"
   ]
 }

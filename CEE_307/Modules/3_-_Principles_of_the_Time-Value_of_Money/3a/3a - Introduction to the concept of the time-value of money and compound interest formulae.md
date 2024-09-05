@@ -57,18 +57,21 @@ This confirms the accuracy of the estimate obtained using the Rule of 72.
 (b) What interest rate is needed to double an initial principal in 5 years?
 ![[Ex_3b.png]]
 # The Concept of Equivalence
-- The *concept of equivalence enables on to compare the "values" of cash flows that occur at different points in time.
+- The *concept of equivalence* enables on to compare the "values" of cash flows that occur at different points in time.
 - These could be single cash flows at different points in time, or a series of cash flows over several periods
-- The following two examples illustrate this concept
+
+The following two examples illustrate this concept
 ## Example 4A: Present Worth and Future Worth concepts
-If you invest $2,000 today in an account that earns an interest rate 5% per year, how much money will you have in the account after 4 years?
-![[Pasted image 20240903212227.png]]
+If you invest \$2,000 today in an account that earns an interest rate 5% per year, how much money will you have in the account after 4 years?
+![[Ex_4A.png]]
 	$F_N=P(1+i)^N=\$2,000(1+0.05)^4=\$2,431$
 Then, using the concept of equivalence, the following statement can be made regarding this scenario:
-	The $2,000 you have today is __*equivalent to*__ the $2,431 that you can have 4 years from now. In other words you would be indifferent between the choice of having $2,000 today or waiting to get $2,431 four years from now.
+- The \$2,000 you have today is __*equivalent to*__ the \$2,431 that you can have 4 years from now. In other words you would be indifferent between the choice of having \$2,000 today or waiting to get \$2,431 four years from now.
+	
 You can also make the following alternative statements:
-	$2,431 is the 4-year __*future worth*__ of today's $2,000; or alternatively,
-	$2,000 is the __*present worth*__ of a 4-year future $2,431 cash flow.
+- \$2,431 is the 4-year __*future worth*__ of today's \$2,000; or alternatively,
+- \$2,000 is the __*present worth*__ of a 4-year future \$2,431 cash flow.
+	
 Note that:
 	The **future worth** of initial principal P is equal to $F=P(1+i)^N$, or
 	The **present worth** of a future cash flow F is equal to $P=F(1+i)^{-N}$
@@ -82,7 +85,9 @@ Calculate the equivalent present worth of each of the following two alternatives
 | Revenue end of year 2     |                  $4,000 |                  $4,000 |
 | Revenue end of year 3     |                  $1,500 |                  $7,500 |
 | Net revenue after 3 years | \$13,000-10,000=\$3,000 | \$13,000-10,000=\$3,000 |
-Note that both alternatives have the same net revenue of \$3,000 after three years. However, the timing of the annual revenues is different. Alternative 1 has larger revenues early while Alternative 2 has larger revenues late. Therefore, these two alternatives may have different net profit if the time-value of money is applied. Therefore, to compare the alternatives we will compute the present worth of each alternative and compare them.
+ - Note that both alternatives have the same net revenue of \$3,000 after three years. However, the timing of the annual revenues is different.
+ - The solution involves calculating and comparing the equivalent (PW) of each alternative, which is sum of the PWs of the individual future revenues minus the initial cost, i.e.,
+ - Alternative 1 has larger revenues early while Alternative 2 has larger revenues late. Therefore, these two alternatives may have different net profit if the time-value of money is applied. Therefore, to compare the alternatives we will compute the present worth of each alternative and compare them.
 
 Based on the interest rate of 8% per year, the present worth (PW) of each alternative is equal to the sum of the PW of the individual future revenues minus the initial cost, i.e.,
 ![[Ex_5A.png]]
@@ -98,9 +103,11 @@ This section presents the derivation of a number of formulas relating different 
 	$i$ = effective interest rate per period
 	$N$ = number of compounding periods (or length of analysis, in periods)
 	$P$ = present sum of money or cash flow at period $N$
+	$F$ = future single sum of money or cash flow at period $N$
 	$A$ = uniform regular end-of-period cash flows from period 1 to $N$.
 # Cash-flow diagram
-A cash flow diagram is a schematic representation of the project cash flows over time. Typically, the x-axis represents time periods and each cash flow is placed at an appropriate time period and represented by a vertical arrow either facing upwwards for positive cash flows, or downwards for negative cash flows.
+- A cash flow diagram is a schematic representation of the project cash flows over time.
+- Typically, the x-axis represents time periods and each cash flow is placed at an appropriate time period and represented by a vertical arrow either facing upwwards for positive cash flows, or downwards for negative cash flows.
 
 # Sign convention of cash flows in a cash-flow diagrams
 - Cost or expenditures are considered "**negative**" cash flows and are represented by "downard-pointing" arrows.
@@ -113,15 +120,15 @@ Therefore, when drawing cash flow diagrams, one has to be clear on from whose po
 
 For example, a bank loan from the point of view of the client (i.e., recipient of the loan) will have the loan amount as a positive cash flow (upward pointing arrow), and the monthly loan payments as negative cash flows (downward pointing arrows).
 Cash Flow Diagram (CFD) for a bank loan:
-(INSERT DRAWING HERE)
+![[Ex_CFD.png]]
 
 Note that
 - The diagram shows that the loan has to be paid back in 36 uniform monthly payments, A, at a monthly interest rate of $\frac{1}{2}\%$. The payment start 1 month after receiving the loan.
 - This CFD is drawn from the <u>point of view of the client</u> who gets the loan, hence, the loan, P, is a positive cash flow to the client, therefore an upward-pointing arrow. On the other hand, the payments, A, are costs and therefore negative cash flows represented by a series of downward-pointing arrows from month 1 to 36.
 
 ## 3.4.2 Compound interest formulae for single cash flows P and F
-Cash flow diagram:
-![[single_cash_flows.png]]
+Standard cash flow diagram:
+![[CFD_FPFPIN.png]]
 ## Finding the future worth, F, given P, i, N
 $F=P(1+i)^N$
 The factor $(1+i)^N$ is referred to as the "**compound amount factor**".
@@ -134,9 +141,10 @@ The factor (1+i)^{-N} is referred to as the "present worth factor".
 It is usually denoted as (P/F, i, N) and stated as "finding P given F, i, and N", i.e.,
 $P=F(P/F,i,N)=F(1+i)^{-N}$
 
+# Formula for finding F given A and vice versa
 ## 3.4.3 Compound interest formulae relating cash flows A and F
 Cash flow diagram
-![[cash_flows_A_andF.png]]
+![[CFD_FAFAIN.png]]
 Note that the uniform periodic cash flows A start from period 1 and continue up to period N.
 
 **Finding the future worth, F, of a uniform series cash flows, A, given i, and N**
@@ -160,3 +168,37 @@ The factor $[\frac{(1+i)^N-1}{i}]$ is referred to as the "**uniform series compo
 # $F=A(F/A,i,N)=A[\frac{(1+i)^N-1}{i}]$
 
 ## Finding the uniform periodic worth, $A$, of a future cash flow, $F$, given $i$, and $N$
+To find $A$ given $F$, $i$, $N$, take the inverse of the uniform series compound amount factor, i.e.,
+# $A=F[\frac{i}{(1+i)^N-1}]$
+
+The factor $[\frac{i}{(1+i)^N-1}]$ is referred to as the "**uniform series sinking fund factor**" and is usually denoted as $(A/F,i,N)$ and stated as "finding $A$ given $F$, $i$, and $N$", i.e.,
+# $A=F(A/F,i,N)=F[\frac{i}{(1+i)^N-1}]$
+
+# Formula for finding P given A and vice versa
+## 3.4.4 Compound interest formulae relating cash flows A and P
+Cash flow diagram
+![[CFD_PAPAAIN.png]]
+Note that the P is at period zero and the A's start from period 1 and end at $N$.
+## Finding the present worth $P$, of a uniform of cash flows, $A$, given $i$, and $N$
+Similar to the derivation of the future worth formula, the present worth is equal to the sum of the present worth of each individual A. By treating each individual A that occurs in period $k$, we can find its present worth by using the "present worth factor" with the appropriate number of periods from 1 to $k$, i.e.,
+
+$P'=A(1+i)^{-k}$
+
+Summing the present worths of all the $A$'s from $k=1$ to $k=N$, we get
+$P=A(1+i)^{-1}+A(1+i)^{-2}+A(1+i)^{-3}+...+A(1+i)^{-N}$
+Mulitply through by $(1+i)^{-1}$ (This is an alternative approach compared to the derivation of $F/A,i,N$)
+$P(1+i)^{-1}=+A(1+i)^{-2}+A(1+i)^{-3}+...+A(1+i)^{-N}+A(1+i)^{-N-1}$ 
+
+Subtracting Eqn(2) from (1), all the middle terms disappear, i.e.,
+$P-P(1+i)^{-1}=A(1+i)^{-1}-A(1+i)^{-N-1}$, which can be re-written as
+$P[1-(1+i)^{-1}]=A[(1+i)^{-1}-(1+i)^{-N-1}]$
+
+i.e.,
+
+$P[1-\frac{1}{(1+i)}]=A[\frac{1}{(1+i)}-\frac{1}{(1+i)^N(1+i)}]$
+
+Which simplifies to:
+$P=A[\frac{(1+i)^N-1}{i(1+i)^N}]$
+
+The factor $[\frac{(1+i)^N-1}{i(1+i)^N}]$ is referred to as the "**uniform series present worth factor**" and is usually dentoed as $(P/A,i,N)$ and stated as "finding $P$ given $A$, $i$ and $N$", i.e.,
+$P=A(P/A,i,N)=A[\frac{(1+i)^N-1}{i(1+i)^N}]$
