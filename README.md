@@ -7,8 +7,8 @@ Classes:
 
 To Do(s):
 Saturday:
-- [ ] CPE 300 homework 1 (11:59)
+- [/] CPE 300 homework 1 (11:59)
 - [ ] PHYS 196 L pre-lab (1:00)
 Sunday:
 - [/] PHYS 196 homework 22 (11:59)
-- [ ] CEE 307 homework 2 and quiz (11:59)
+- [/] CEE 307 homework 2 and quiz (11:59)
