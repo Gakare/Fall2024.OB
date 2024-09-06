@@ -137,7 +137,7 @@ $F=P(F/P,i,N)=P(1+i)^N$
 
 ## Finding the present worth, P, given F, i, N
 $P=F(1+i)^{-N}$
-The factor (1+i)^{-N} is referred to as the "present worth factor".
+The factor $(1+i)^{-N}$ is referred to as the "present worth factor".
 It is usually denoted as (P/F, i, N) and stated as "finding P given F, i, and N", i.e.,
 $P=F(P/F,i,N)=F(1+i)^{-N}$
 
@@ -186,7 +186,7 @@ $P'=A(1+i)^{-k}$
 
 Summing the present worths of all the $A$'s from $k=1$ to $k=N$, we get
 $P=A(1+i)^{-1}+A(1+i)^{-2}+A(1+i)^{-3}+...+A(1+i)^{-N}$
-Mulitply through by $(1+i)^{-1}$ (This is an alternative approach compared to the derivation of $F/A,i,N$)
+Mulitply through by $(1+i)^{-1}$ (This is an alternative approach compared to the derivation of $F/A,i,N$ )
 $P(1+i)^{-1}=+A(1+i)^{-2}+A(1+i)^{-3}+...+A(1+i)^{-N}+A(1+i)^{-N-1}$ 
 
 Subtracting Eqn(2) from (1), all the middle terms disappear, i.e.,
@@ -202,3 +202,33 @@ $P=A[\frac{(1+i)^N-1}{i(1+i)^N}]$
 
 The factor $[\frac{(1+i)^N-1}{i(1+i)^N}]$ is referred to as the "**uniform series present worth factor**" and is usually dentoed as $(P/A,i,N)$ and stated as "finding $P$ given $A$, $i$ and $N$", i.e.,
 $P=A(P/A,i,N)=A[\frac{(1+i)^N-1}{i(1+i)^N}]$
+
+# Formula for finding P given A: Special case when N = infinity
+![[infinity.png]]
+For $N=\infty$,
+
+$P=A[\frac{(1+i)^N-1}{i(1+i)^N}]=A[\frac{1}{i}]=\frac{A}{i}$
+
+This present worth when $N=\infty$, is known as "**<u>capitalized cost</u>**" "**<u>capitalized worth</u>**".
+
+This also translates to
+$A=Pi$ when $N=\infty$.
+
+An intuitive translation of this is that if you invest an amount P and at the end of each period you just take out the periodic interest amount $P_i$, then that principal amount will last forever!!.
+
+# Finding the uniform periodic worth, $A$, of an initial cash flow, $P$, given $i$, and $N$
+To find $A$ given $P$, $i$, $N$, taking the inverse of the uniform series present worth factor results in,
+$A=P[\frac{i(1+i)^N}{(1+i)^N-1}]$. This factor $[\frac{i(1+i)^N}{(1+i)^N-1}]$ is referred to as the "**uniform series capital recovery factor**" and is usually denoted as $(A/P,i,N)$ and stated as "finding $A$ given $P$, $i$ and $N$", i.e.,
+
+$A=P[\frac{i(1+i)^N}{(1+i)^N-1}]$. This factor $[\frac{i(1+i)^N}{(1+i)^N-1}]$ is referred to as the "**uniform series capital recovery factor**" and is usually denoted as $(A/P,i,N)$ and stated as "finding $A$ given $P$, $i$, and $N$", i.e.,
+
+$A=P(A/P,i,N)=P[\frac{i(1+i)^N}{(1+i)^N-1}]$
+
+Note: Similar to present worth factor, if $N=\infty$, then the factor $(A/P,i,\infty)=i$
+
+For $N=\infty$, $A=P(A/P,i,\infty)=Pi$
+
+This means that an initial investment principal P can last forever if at the end of each period only the interest amount (Pi) is taken out, leaving the initial $P$ in the account forever.
+
+# 3.4.5 Relationships between factors
+Several relationships can be developed between factors derived above. To develop these relationships, consider the factors as analogous to fractions and use the simple rules of algebra to develop the relationships.
