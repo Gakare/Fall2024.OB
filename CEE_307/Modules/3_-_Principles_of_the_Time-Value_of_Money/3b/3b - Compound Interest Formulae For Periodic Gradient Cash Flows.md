@@ -36,3 +36,18 @@ cash flow diagram:
 - Which is can also be in the form of
 	- $F=\frac{G}{i}[(F/A,i,N)-N]$
 
+## <u>Finding P in terms of G</u>
+- Cash Flow Diagram:
+![[Finding P in terms of G CFD.png]]
+- Note that, as before
+	- The cash flows increase by a fixed amount G every subsequent period
+	- The first G occurs at period 2, not period 1. The reason will be apparent later in the examples
+	- Therefore, there are $N-1$ periodic cash flows
+- The formula for finding P, given G, i and N:
+	- $P=G[\frac{(1+i)^N-1}{i^2(1+i)^N}-\frac{N}{i(1+i)^N}]$
+- This means that the factor for converting G into P, i.e,
+	- $(P/G,i,N)=[\frac{(1+i)^N-1}{i^2(1+i)^N}-\frac{N}{i(1+i)^N}]$
+- This can also be rewritten as
+	- $P=\frac{G}{i}[\frac{(1+i)^N-1}{i(1+i)^N}-\frac{N}{(1+i)^N}]$
+- Note that the two terms inside the brackets are $(P/A,i,N)$ and $(P/F,i,N)$, hence
+	- $P=\frac{G}{i}[(P/A,i,N)-N(P/F,i,N)]$
