@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "874457b22fbf0839",
+            "id": "301c126580337966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.4 Basic Proof Methods I.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.4 Basic Proof Methods I.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.4 Basic Proof Methods I.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,19 +126,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md"
+                "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.4 Basic Proof Methods I.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -147,20 +149,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "874457b22fbf0839",
+  "active": "8f50dbc86c5de6ee",
   "lastOpenFiles": [
-    "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+    "MATH_251/Modules/1_-_Logics_and_Proofs/img/Direct_Proof.png",
+    "MATH_251/Modules/1_-_Logics_and_Proofs/img",
     "MATH_251/Modules/1_-_Logics_and_Proofs/1.3 Quantified Statements.md",
+    "MATH_251/Modules/1_-_Logics_and_Proofs/1.4 Basic Proof Methods I.md",
+    "CPE_300/Live_Lecture/8-29-24.md",
+    "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Datapath Architecture.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/General Datapath.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Calculation Of The Clock Period.md",
     "MATH_251/Assignments/1.1.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Cost Concepts and Present Economy Studies Lecture.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Examples.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
-    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Datapath Architecture.md",
-    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Calculation Of The Clock Period.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Iron_law.png",
-    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/General Datapath.md",
-    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
-    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/General_Datapath.png",
     "Pasted image 20240906195929.png",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/clk.png",
@@ -175,7 +181,6 @@
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/Introduction to the concept of the time-value of money and compound interest formulae.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/Learning Objective.md",
     "MATH_251/Modules/1_-_Logics_and_Proofs/1.1 Propositions and Connective.md",
-    "CPE_300/Live_Lecture/8-29-24.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/img",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Learning Objectives.md",
@@ -191,8 +196,6 @@
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies",
     "MATH_251/Assignments",
-    "1.1.md",
-    "Excalidraw/images",
-    "Excalidraw/Drawing 2024-08-29 22.08.35.excalidraw.md"
+    "1.1.md"
   ]
 }
