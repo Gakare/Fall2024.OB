@@ -200,7 +200,7 @@ $P[1-\frac{1}{(1+i)}]=A[\frac{1}{(1+i)}-\frac{1}{(1+i)^N(1+i)}]$
 Which simplifies to:
 $P=A[\frac{(1+i)^N-1}{i(1+i)^N}]$
 
-The factor $[\frac{(1+i)^N-1}{i(1+i)^N}]$ is referred to as the "**uniform series present worth factor**" and is usually dentoed as $(P/A,i,N)$ and stated as "finding $P$ given $A$, $i$ and $N$", i.e.,
+The factor $[\frac{(1+i)^N-1}{i(1+i)^N}]$ is referred to as the "**uniform series present worth factor**" and is usually denoted as $(P/A,i,N)$ and stated as "finding $P$ given $A$, $i$ and $N$", i.e.,
 $P=A(P/A,i,N)=A[\frac{(1+i)^N-1}{i(1+i)^N}]$
 
 # Formula for finding P given A: Special case when N = infinity
