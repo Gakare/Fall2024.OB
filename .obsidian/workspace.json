@@ -4,16 +4,48 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "9930049806c0a331",
         "type": "tabs",
         "children": [
           {
             "id": "267ca996a708037c",
+=======
+        "id": "598980f34e3ee8d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "638cfedf2653c2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "242994fc9911de3c",
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa5dfc06d1105dd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3c/3c - Nominal & Effective Interest Rates.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +118,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+=======
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +139,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+=======
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +166,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md"
+=======
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
               }
             }
           }
@@ -148,11 +192,29 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "267ca996a708037c",
   "lastOpenFiles": [
+=======
+  "active": "638cfedf2653c2f9",
+  "lastOpenFiles": [
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3c/3c - Nominal & Effective Interest Rates.md",
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
     "MATH_251/Modules/1_-_Logics_and_Proofs/1.3 Quantified Statements.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
+<<<<<<< HEAD
+=======
+    "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3c",
+    "CPE_300/Assignments/HW3.canvas",
+    "CPE_300/Assignments",
+    "MATH_251/Modules/1_-_Logics_and_Proofs/1.3 Quantified Statements.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/img/Find_F.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/img/Find_F.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/img/Find_P.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/img/(A-G,i,N).png",
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/img/Finding P in terms of G CFD.png",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/img/AGCF.png",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/img/Geometric gradient cash flow.png",
@@ -165,7 +227,6 @@
     "MATH_251/Modules/1_-_Logics_and_Proofs/img/Direct_Proof.png",
     "MATH_251/Modules/1_-_Logics_and_Proofs/img",
     "CPE_300/Live_Lecture/8-29-24.md",
-    "MATH_251/Modules/1_-_Logics_and_Proofs/1.2 Conditionals and Biconditionals.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Datapath Architecture.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/General Datapath.md",
@@ -175,10 +236,13 @@
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Cost Concepts and Present Economy Studies Lecture.md",
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Examples.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Iron_law.png",
+<<<<<<< HEAD
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/General_Datapath.png",
     "Pasted image 20240906195929.png",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/clk.png",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/calc_of_clock.png",
+=======
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
     "README.md",
     "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/Introduction to the concept of the time-value of money and compound interest formulae.md",
@@ -189,11 +253,8 @@
     "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Learning Objectives.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money",
-    "README.md~",
     "CPE_300/Modules/1_-_Review/Latches and Flip-Flops Review.md",
     "CPE_300/Modules/1_-_Review/Verilog Review.md",
-    "CEE_307/Modules/1_-_Introduction_to_Engineering_Economics/Learning Objectives.md",
-    "CEE_307/Modules/1_-_Introduction_to_Engineering_Economics/Introduction to Engineering Economics.md",
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/img"
+    "CEE_307/Modules/1_-_Introduction_to_Engineering_Economics/Learning Objectives.md"
   ]
 }

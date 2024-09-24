@@ -50,4 +50,39 @@ cash flow diagram:
 - This can also be rewritten as
 	- $P=\frac{G}{i}[\frac{(1+i)^N-1}{i(1+i)^N}-\frac{N}{(1+i)^N}]$
 - Note that the two terms inside the brackets are $(P/A,i,N)$ and $(P/F,i,N)$, hence
+<<<<<<< HEAD
 	- $P=\frac{G}{i}[(P/A,i,N)-N(P/F,i,N)]$
+=======
+	- $P=\frac{G}{i}[(P/A,i,N)-N(P/F,i,N)]$
+
+## <u>Finding A in terms of G</u>
+- Cash Flow Diagram:
+ ![[(A-G,i,N).png]]
+ - The objective is to find the equivalent uniform periodic cash flow, A, in terms of G, such that $P_1=P_2$
+ - The formula for finding A, given G, i and N:
+	 - $A=G[\frac{1}{i}-\frac{N}{(1+i)^N-1}]$
+- This means that the factor for converting G into A, i.e.,
+	- $(A/G,i,N)=[\frac{1}{i}-\frac{N}{(1+i)^N-1}]$
+
+## <u>Finding the present worth, P</u>
+- Cash flow Diagram:
+ ![[Find_P.png]]
+ Note that
+	 The cash flows increase at the <u>rate</u> equal to g
+	 The $K^{th}$ period cash flow = $A_1(1+g)^{k-1}$
+- There are two conditions for the relationship, i.e.,
+	- $P=\frac{A_1}{i-g}[1-(1+g)^N(1+i)^{-N}]$ if $i\ne g$
+	Or
+	- $P=\frac{A_1N}{1+i}$ if $i=g$
+
+## <u>Finding the present worth, F</u>
+- Cash Flow Diagram:
+![[Find_F.png]]
+Note that
+	The cash flows increase at the <u>rate</u> equal to g
+	 The $K^{th}$ period cash flow = $A_1(1+g)^{k-1}$
+- Similar to P, there are two conditions for the relationship, i.e.,
+	- $F=\frac{A_1}{i-g}[(1+i)^N-(1+g)^N]$ if $i\ne g$
+	or
+	- $F=A_1N(1+i)^{N-1}$ if $i=g$
+>>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
