@@ -1,19 +1,31 @@
 {
   "main": {
-    "id": "7c685d53d29ef35e",
+    "id": "7eafdc9d3bc81500",
     "type": "split",
     "children": [
       {
-        "id": "10a7f4d1612ffac4",
+        "id": "24ec8a80c280b12f",
         "type": "tabs",
         "children": [
           {
-            "id": "8845f1cefde424f0",
+            "id": "90df7684a599d3d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfbd417dcd4dde97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3e1b1050c85e7dde",
+    "id": "b56cfd7235e53c13",
     "type": "split",
     "children": [
       {
-        "id": "fbbdb93459da11d4",
+        "id": "f6fc9181f686e2e8",
         "type": "tabs",
         "children": [
           {
-            "id": "d60ab104b2c997a2",
+            "id": "e7c2304f79f3b84c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +55,7 @@
             }
           },
           {
-            "id": "f75cf6cf1873513c",
+            "id": "18b57c3fb24894d7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +70,7 @@
             }
           },
           {
-            "id": "e7a9a4619292ecf8",
+            "id": "f9ac7a465acc9932",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,15 +85,15 @@
     "collapsed": true
   },
   "right": {
-    "id": "28471a98e9728bdd",
+    "id": "d61d26bcab4a0873",
     "type": "split",
     "children": [
       {
-        "id": "61f229b1507e1101",
+        "id": "c4cd2139c34973d9",
         "type": "tabs",
         "children": [
           {
-            "id": "e769fb790652238f",
+            "id": "38dc3f836d30da98",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -98,7 +110,7 @@
             }
           },
           {
-            "id": "c5074c4574d8cd30",
+            "id": "da9fd9a8cc85b5e3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -110,7 +122,7 @@
             }
           },
           {
-            "id": "ebfdaab0428ca3ca",
+            "id": "eaf5f07214ed1789",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,7 +133,7 @@
             }
           },
           {
-            "id": "da0c9ef8f246a27a",
+            "id": "6015fd54a0e3da9c",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -147,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8845f1cefde424f0",
+  "active": "90df7684a599d3d2",
   "lastOpenFiles": [
-    "CEE_307/Modules/2_-_Cost_Concepts_and_Present_Economy_Studies/Cost Concepts and Present Economy Studies Lecture.md"
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
   ]
 }

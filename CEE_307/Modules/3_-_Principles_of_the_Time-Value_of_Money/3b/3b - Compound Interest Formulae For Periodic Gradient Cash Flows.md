@@ -85,4 +85,3 @@ Note that
 	- $F=\frac{A_1}{i-g}[(1+i)^N-(1+g)^N]$ if $i\ne g$
 	or
 	- $F=A_1N(1+i)^{N-1}$ if $i=g$
->>>>>>> 9e2b43dfbb3a14255196da7a99787dd30aff996e
