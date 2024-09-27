@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "24ec8a80c280b12f",
+        "id": "3b9b6725ef7f6c8b",
         "type": "tabs",
         "children": [
           {
-            "id": "90df7684a599d3d2",
+            "id": "b988149f08e88b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfbd417dcd4dde97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
+                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d61d26bcab4a0873",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
+                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md"
               }
             }
           }
@@ -159,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90df7684a599d3d2",
+  "active": "e7c2304f79f3b84c",
   "lastOpenFiles": [
+    "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
+    "CPE_300/Modules/3_-_Arithmetic_Circuits",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
   ]
