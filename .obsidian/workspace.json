@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "09a0817e1c5480c4",
+        "id": "587a3f662f791192",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f7a89249a20ec0",
+            "id": "a5c87962551fa881",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4c11433490e76be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md"
               }
             }
           }
@@ -161,10 +148,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d4c11433490e76be",
+  "active": "b3af4f9df420c00f",
   "lastOpenFiles": [
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Register Transfer and Control Words.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Example of Single Bus DP.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Busses.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/two-8-bit-registers-output-to-bus.png",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/img/FW_Method.png"
   ]
 }
