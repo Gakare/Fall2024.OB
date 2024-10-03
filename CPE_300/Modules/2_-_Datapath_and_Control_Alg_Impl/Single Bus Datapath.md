@@ -7,6 +7,7 @@
 - The $2^{nd}$ operand arrives to ALU, and the result of ALU is stored into Z register
 - Can use latches for registers
 - Assume ALU performs only addition and subtraction
+![[Example of Single Bus DP.png]]
 
 # Register transfers (expressed in RTL) and <u>control words</u>
 <u>Abstract transfer (what to do)</u>
@@ -19,9 +20,9 @@ Cycle 3: $R[1]\leftarrow Z$;
 
 <u>Control Words (what signals by CU and when (cycle #))</u>
 Cycle 1: $R[0]$out, Yin; //Other signals are 0
-Cycle 2: $R[1]out, Zin; S = 0 (meaning add); // others = 0
-Cycle 3: Zout, R[1]in; //others = 0
-
+Cycle 2: $R\[1]out, Zin; S = 0 (meaning add); // others = 0
+Cycle 3: Zout, R\[1]in; //others = 0
+![[Register Transfer and Control Words.png]]
 # Register file: RF
 - When we want to store several numbers in a digital circuit, we use several registers.
 - There are times when we want to treat these registers as a unit, similar to addressing locations of memory by having an array of registers.

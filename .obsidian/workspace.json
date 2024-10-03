@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "8a6fac967e72b65a",
     "type": "split",
     "children": [
@@ -9,10 +10,22 @@
         "children": [
           {
             "id": "47fc456f452be1b3",
+=======
+    "id": "17b9c07ea811b5b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "587a3f662f791192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c87962551fa881",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
                 "mode": "preview",
                 "source": false
@@ -26,6 +39,9 @@
               "type": "markdown",
               "state": {
                 "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+=======
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
                 "mode": "source",
                 "source": false
               }
@@ -37,6 +53,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "b0305fe3504bc47c",
     "type": "split",
     "children": [
@@ -46,6 +63,17 @@
         "children": [
           {
             "id": "d969058d46a764e9",
+=======
+    "id": "f987f04a47676f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "62bed66f468de7b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3af4f9df420c00f",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +83,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "884aeb8304121640",
+=======
+            "id": "c918694f8992864f",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +102,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "a0010c1d091676d1",
+=======
+            "id": "1cffe14b03902312",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,6 +121,7 @@
     "collapsed": true
   },
   "right": {
+<<<<<<< HEAD
     "id": "149a141769a0c90f",
     "type": "split",
     "children": [
@@ -94,11 +131,26 @@
         "children": [
           {
             "id": "61aa44c7e18aa1e9",
+=======
+    "id": "d11af3d0beba58a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "45b071e9fe624ff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "689e15b605ec8111",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
+=======
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +162,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "48e09de3e3780b1e",
+=======
+            "id": "b198b374857e409f",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
+=======
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "6dc8372d76c4a506",
+=======
+            "id": "6ecb12449154354b",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +197,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "0664e8f8f181d08d",
+=======
+            "id": "b6a7b3a7b9535a4a",
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md"
+=======
+                "file": "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md"
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
               }
             }
           }
@@ -159,9 +231,23 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "47fc456f452be1b3",
   "lastOpenFiles": [
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md"
+=======
+  "active": "b3af4f9df420c00f",
+  "lastOpenFiles": [
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Register Transfer and Control Words.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Example of Single Bus DP.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/Busses.png",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Single Bus Datapath.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/Register Transfers.md",
+    "CPE_300/Modules/2_-_Datapath_and_Control_Alg_Impl/img/two-8-bit-registers-output-to-bus.png",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/img/FW_Method.png"
+>>>>>>> 34c6562cc1c169067866050b3af78562818a1487
   ]
 }

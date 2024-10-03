@@ -59,6 +59,10 @@ endmodule
 ```
 
 ![[Tri_Buff.png]]
+# Two 8-bit registers output to the BUS
+- When En=0, the register on the left transfers
+- When En=1, the right register transfers
+![[two-8-bit-registers-output-to-bus.png]]
 # Registers can transfer to the BUS and can get Data from the Bus:
 Only one out of n enable signals $G_i$ can be high in any bus cycles
 - Transfers are possible
@@ -66,6 +70,13 @@ Only one out of n enable signals $G_i$ can be high in any bus cycles
 	- from one to many
 	- from one to all
 
+# Registers can transfer to the BUS and can get Data from the Bus:
+![[Busses.png]]
+Only one out of n enable signals $G_i$ can be high in any bus cycle
+- Transfers are possible
+	- Between any 2 registers R\[i]$\leftarrow$R\[j]
+	- from one to many
+	- from one to all
 # Single-bus architecture
 - All circuits are connected through a single pathway- BUS
 - Electronic circuit that carries data and control signals through the wires
