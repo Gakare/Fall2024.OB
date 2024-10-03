@@ -1,51 +1,52 @@
 {
   "main": {
-    "id": "9e2160861dd3ec93",
+    "id": "17b9c07ea811b5b4",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "3b9b6725ef7f6c8b",
+        "id": "09a0817e1c5480c4",
         "type": "tabs",
         "children": [
           {
-            "id": "b988149f08e88b85",
-=======
-        "id": "9b341bd86cabc310",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c67f4bb50d9fb319",
->>>>>>> 1c8b8d60e2deaec7fdecaae3771f5b73dc41348f
+            "id": "f2f7a89249a20ec0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
-=======
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
->>>>>>> 1c8b8d60e2deaec7fdecaae3771f5b73dc41348f
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4c11433490e76be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "675f4c71ca04fc52",
+    "id": "f987f04a47676f64",
     "type": "split",
     "children": [
       {
-        "id": "5726fdad3709c6da",
+        "id": "62bed66f468de7b1",
         "type": "tabs",
         "children": [
           {
-            "id": "4efb02e63cedb1b4",
+            "id": "b3af4f9df420c00f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +56,7 @@
             }
           },
           {
-            "id": "b32e5a56128f3e93",
+            "id": "c918694f8992864f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +71,7 @@
             }
           },
           {
-            "id": "19af6d0ad31aee55",
+            "id": "1cffe14b03902312",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,32 +82,24 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 300
-=======
-    "width": 473.5,
+    "width": 300,
     "collapsed": true
->>>>>>> 1c8b8d60e2deaec7fdecaae3771f5b73dc41348f
   },
   "right": {
-    "id": "2c9ee4a0fe0e1aed",
+    "id": "d11af3d0beba58a3",
     "type": "split",
     "children": [
       {
-        "id": "394bc234b705ccbd",
+        "id": "45b071e9fe624ff1",
         "type": "tabs",
         "children": [
           {
-            "id": "0dd507f50aae6089",
+            "id": "689e15b605ec8111",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
-=======
-                "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
->>>>>>> 1c8b8d60e2deaec7fdecaae3771f5b73dc41348f
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,23 +111,19 @@
             }
           },
           {
-            "id": "5b5d41f0ad74d02a",
+            "id": "b198b374857e409f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
-=======
-                "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
->>>>>>> 1c8b8d60e2deaec7fdecaae3771f5b73dc41348f
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9dc5222e6ce6b322",
+            "id": "6ecb12449154354b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,16 +134,12 @@
             }
           },
           {
-            "id": "517f9aebf152442d",
+            "id": "b6a7b3a7b9535a4a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md"
-=======
-                "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md"
->>>>>>> 1c8b8d60e2deaec7fdecaae3771f5b73dc41348f
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
               }
             }
           }
@@ -176,22 +161,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "e7c2304f79f3b84c",
+  "active": "d4c11433490e76be",
   "lastOpenFiles": [
-    "CPE_300/Modules/3_-_Arithmetic_Circuits/CLA Basics.md",
-    "CPE_300/Modules/3_-_Arithmetic_Circuits",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
-=======
-  "active": "c67f4bb50d9fb319",
-  "lastOpenFiles": [
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/img",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/img/PW_METHOD.png",
-    "Untitled 1.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives"
->>>>>>> 1c8b8d60e2deaec7fdecaae3771f5b73dc41348f
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/img/FW_Method.png"
   ]
 }
