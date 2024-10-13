@@ -34,9 +34,9 @@ Note that
 # Economic Comparisons Using the AW Method
 - For the AW method, alternatives are compared based on the equivalent net annual (or periodic) worth (AW) of the lifecycle cash flows at a given minimum attractive of return (MARR), i.e.,
 	- Net AW = AW(revenues) - AW(Costs)
-- For a typical alternative with an initial investment P, salvage value S at the end of service life of N periods and periodic revenues and costs $A_R$ and $A_C$, respectively
-	- Net AW = $A_R-S(A/F,i,N)-A_C-P(A/P,i,N)$
-- For cost-only alternatives, $A_R=0$, and the equivalent annual worth is normally referred to as the Equivalent Uniform Annual Cost (EUAC) and is given by
+- For a ==typical alternative== with an initial investment P, salvage value S at the end of service life of N periods and periodic revenues and costs $A_R$ and $A_C$, respectively
+	- Net AW = $A_R+S(A/F,i,N)-A_C-P(A/P,i,N)$
+- For ==cost-only alternatives==, $A_R=0$, and the equivalent annual worth is normally referred to as the Equivalent Uniform Annual Cost (EUAC) and is given by
 	- EUAC$=A_C+P(A/P,i,N)-S(A/F,i,N)$
 		- *Note that since these are all costs, a positive sign is used.*
 - Note that, although the method is referred to as the "Annual" worth method, the periodic cash flows may be in any uniform repetitive interval, such as monthly, quarterly, etc. The more appropriate term for this method should have been equivalent uniform "periodic" worth method.

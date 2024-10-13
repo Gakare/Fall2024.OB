@@ -50,9 +50,7 @@ cash flow diagram:
 - This can also be rewritten as
 	- $P=\frac{G}{i}[\frac{(1+i)^N-1}{i(1+i)^N}-\frac{N}{(1+i)^N}]$
 - Note that the two terms inside the brackets are $(P/A,i,N)$ and $(P/F,i,N)$, hence
-<<<<<<< HEAD
 	- $P=\frac{G}{i}[(P/A,i,N)-N(P/F,i,N)]$
-=======
 	- $P=\frac{G}{i}[(P/A,i,N)-N(P/F,i,N)]$
 
 ## <u>Finding A in terms of G</u>
