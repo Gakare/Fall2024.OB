@@ -1,21 +1,18 @@
 {
   "main": {
-    "id": "04bff29e0e5eb5e0",
+    "id": "261251cf2ba58efc",
     "type": "split",
     "children": [
       {
-        "id": "9f9de518ce03683d",
+        "id": "da28e0897b522883",
         "type": "tabs",
         "children": [
           {
-            "id": "c5acfacb9589598d",
+            "id": "7ecd03b7b95a7d8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
-=======
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
                 "mode": "source",
                 "source": false
@@ -23,25 +20,24 @@
             }
           },
           {
-            "id": "f536cc440af6be07",
+            "id": "f8ec362d0a9b6d94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "92285c7c43db8e4b",
+            "id": "5b52eda1fcc3878b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
->>>>>>> f8ca637 (Started working on module 4 for CPE, which is about memory. I understand what I need to do for the assignment, just got to start working on it now.)
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,15 +50,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ed27f73fd3bbc391",
+    "id": "34d3c20c8a0e5259",
     "type": "split",
     "children": [
       {
-        "id": "5d45938aa9f9a6a0",
+        "id": "836954825750d649",
         "type": "tabs",
         "children": [
           {
-            "id": "33b7028331862f57",
+            "id": "d7991ad86f7a772c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +68,7 @@
             }
           },
           {
-            "id": "846d318c057f2e83",
+            "id": "f20c10e1bc85f570",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +83,7 @@
             }
           },
           {
-            "id": "470e8951dee48d3c",
+            "id": "ec7396dc7b47a822",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,24 +98,20 @@
     "collapsed": true
   },
   "right": {
-    "id": "4100118957ecc3f4",
+    "id": "cc641fa0d465c170",
     "type": "split",
     "children": [
       {
-        "id": "f404fb400aafca30",
+        "id": "c95bba6fa1744a64",
         "type": "tabs",
         "children": [
           {
-            "id": "0de228cd91b3220f",
+            "id": "cbf21e8c7fc0f84a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
-=======
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
->>>>>>> f8ca637 (Started working on module 4 for CPE, which is about memory. I understand what I need to do for the assignment, just got to start working on it now.)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,23 +123,19 @@
             }
           },
           {
-            "id": "a3e146145bb04766",
+            "id": "e4265199c3f3d440",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
-=======
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
->>>>>>> f8ca637 (Started working on module 4 for CPE, which is about memory. I understand what I need to do for the assignment, just got to start working on it now.)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b766b326f091b1ce",
+            "id": "35a860f1a08d6f06",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,16 +146,12 @@
             }
           },
           {
-            "id": "75258622d93e9d19",
+            "id": "d7516e77042f4ba8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md"
-=======
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md"
->>>>>>> f8ca637 (Started working on module 4 for CPE, which is about memory. I understand what I need to do for the assignment, just got to start working on it now.)
               }
             }
           }
@@ -189,37 +173,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "33b7028331862f57",
+  "active": "f8ec362d0a9b6d94",
   "lastOpenFiles": [
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/img/example 2.png",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/img",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/img/IRR.png",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
-=======
-  "active": "f536cc440af6be07",
-  "lastOpenFiles": [
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3b/3b - Compound Interest Formulae For Periodic Gradient Cash Flows.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
->>>>>>> f8ca637 (Started working on module 4 for CPE, which is about memory. I understand what I need to do for the assignment, just got to start working on it now.)
-    "CPE_300/Modules/4_Module_System/Computer Memory.md",
-    "CPE_300/Modules/4_Module_System/Memory Design.md",
-    "CPE_300/Modules/4_Module_System/img/DMUX.png",
-    "CPE_300/Modules/4_Module_System/img/Demux black box.png",
-    "CPE_300/Modules/4_Module_System/img/Transistors Static RAM.png",
-    "CPE_300/Modules/4_Module_System/img/CMOS.png",
-    "CPE_300/Modules/4_Module_System/img/Logic Components of Memory.png",
-    "CPE_300/Modules/4_Module_System/img/DRAM.png",
-    "CPE_300/Modules/4_Module_System/img/SRAM.png",
-    "CPE_300/Modules/4_Module_System/img/SRAM.png",
-    "CPE_300/Modules/4_Module_System/img/Memory Hierarchy.png",
-    "CPE_300/Modules/4_Module_System/img",
-<<<<<<< HEAD
-=======
-    "CPE_300/Modules/4_Module_System/img/Von Neumann Arch.png",
->>>>>>> f8ca637 (Started working on module 4 for CPE, which is about memory. I understand what I need to do for the assignment, just got to start working on it now.)
-    "CPE_300/Modules/4_Module_System"
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/img/3 conditions.png",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/img/Multiple values of irr.png",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/img/Linear Interpolation Error.png",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/img/Example 3.png"
   ]
 }
