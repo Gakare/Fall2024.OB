@@ -1,3 +1,4 @@
+Video: https://www.youtube.com/watch?time_continue=2&v=TZxA0X1dIc4&embeds_referring_euri=https%3A%2F%2Fplugin.3playmedia.com%2F&source_ve_path=MjM4NTE
 These are the last two methods for economic evaluations and comparisons that are going to be presented in this class.
 
 This first part of the lecture presents the B/C Ratio Method as follows:
@@ -91,7 +92,7 @@ Substituting the expression for $(P/A,i,N_P)$ we get
 - $(\frac{(1+i)^{N_P}-1}{i(1+i)^{N_P}})=\frac{P}{(A_R-A_C)}$
 Which reduces to $N_P=\frac{ln(A_R-A_C)-ln(A_R-A_C-Pi)}{ln(1+i)}\rightarrow$ The discounted payback period.
 If the periodic cash flows are non-uniform, then the discounted payback period is the minimum value of Np that satisfies the following relationship for the cumulative present worth of the net revenues, i.e.,
-- $\sum_{k=1}{N_P}(A_{Rk}-A_{Ck}S)\times(P/F,i,k)\ge P$
+- $\sum_{k=1}^{N_P}(A_{Rk}-A_{Ck})\times(P/F,i,k)\ge P$
 where $A_{Rk}$ and $A_{Ck}$ are the revenue and cost for period $k$, respectively.
 
 Similar to the simple payback period, this can be determined graphically, in this case from a graph of the cumulative net <u>present worth</u> as a function of $k$.
@@ -102,3 +103,12 @@ Similar to the simple payback period, this can be determined graphically, in thi
 - However, it should be noted that the alternative with the shortest payback period <u>may not</u> necessarily be the most economical one over the entire service lives or study period.
 The reason being that the payback period does <u>not</u> consider all the cash flows over the entire service life, it **ignores all the cash flows beyond the payback period**.
 For example, an alternative with the shortest payback period may have significantly lower revenues than the competing alternative beyond the payback period, resulting in a lower net PW over the service life compared to the competing alternative.
+# Example 7 (08:21)
+(Note: The example numbers match with the examples in Module 4c notes)
+A project that requires an initial investment of \$1,000,000 is expected to generate gross annual revenues of \$410,000 annual costs of \$100,000 over its projected service life of 8 years. The salvage value at the end of its service life is expected to be \$200,000. Calculate both the simple and discounted payback periods, given a MARR of 12% per year.
+**Solution (09:29)**
+# Example 9: Using the payback period to compare mutually exclusive alternatives (11:57)
+For the following three mutually exclusive alternative equipments, select the preferred equipment based on a MARR of 16% per year using
+(a) The discounted payback period method
+(b) The PW method.
+**Solution (12:54)**

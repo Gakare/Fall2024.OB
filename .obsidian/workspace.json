@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "f811903703ff7ce1",
+        "id": "9c3997c721c6ecfd",
         "type": "tabs",
         "children": [
           {
-            "id": "66bb5cc85f2867ac",
+            "id": "d6bdecf204b1c8b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPE_300/Modules/5_MIPS_Instruction_Set/MIPS-32.md",
+                "file": "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4c/Economic Comparisons Using the Benefit-Cost (B-C) Ratio and Payback Period Methods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MIPS-32"
+              "title": "Economic Comparisons Using the Benefit-Cost (B-C) Ratio and Payback Period Methods"
             }
           },
           {
-            "id": "15cd6dc05d430c29",
+            "id": "7de9279eb4a4c1e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPE_300/Modules/6_MIPS_Design/MIPS Subset Design.md",
+                "file": "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/Dealing with Uncertainty In Economic Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MIPS Subset Design"
+              "title": "Dealing with Uncertainty In Economic Analysis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +166,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,16 +174,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15cd6dc05d430c29",
+  "active": "d6bdecf204b1c8b1",
   "lastOpenFiles": [
+    "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/Dealing with Uncertainty In Economic Analysis.md",
+    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4c/Economic Comparisons Using the Benefit-Cost (B-C) Ratio and Payback Period Methods.md",
+    "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis",
+    "CPE_300/Modules/5_MIPS_Instruction_Set/MIPS-32.md",
     "CPE_300/Modules/6_MIPS_Design/MIPS Subset Design.md",
     "CPE_300/Modules/6_MIPS_Design/img/Main Decoder.png",
     "CPE_300/Modules/6_MIPS_Design/img/ALU Decoder.png",
     "CPE_300/Modules/6_MIPS_Design/img",
     "CPE_300/Modules/6_MIPS_Design/img/Decoding R Instructions.png",
-    "CPE_300/Modules/5_MIPS_Instruction_Set/MIPS-32.md",
     "CPE_300/Modules/6_MIPS_Design",
-    "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4c/Economic Comparisons Using the Benefit-Cost (B-C) Ratio and Payback Period Methods.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4c/img",
