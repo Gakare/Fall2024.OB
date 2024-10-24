@@ -35,7 +35,8 @@
               "title": "Dealing with Uncertainty In Economic Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,9 +175,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6bdecf204b1c8b1",
+  "active": "7de9279eb4a4c1e1",
   "lastOpenFiles": [
+    "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/img/Example 5 Solution.png",
+    "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/img/Decision Tree 3b Example.png",
     "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/Dealing with Uncertainty In Economic Analysis.md",
+    "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/img/Example 4 Summary Table.png",
+    "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/img",
+    "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis/img/Example 4.png",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4c/Economic Comparisons Using the Benefit-Cost (B-C) Ratio and Payback Period Methods.md",
     "CEE_307/Modules/6_-_Dealing_With_Uncertainty_In_Economic_Analysis",
     "CPE_300/Modules/5_MIPS_Instruction_Set/MIPS-32.md",
@@ -194,9 +200,6 @@
     "CPE_300/Modules/5_MIPS_Instruction_Set/img/Conds.png",
     "CPE_300/Modules/5_MIPS_Instruction_Set/img/Operations.png",
     "CPE_300/Modules/5_MIPS_Instruction_Set/img/Instruction Formats.png",
-    "CPE_300/Modules/5_MIPS_Instruction_Set/img/Memory Example.png",
-    "CPE_300/Modules/5_MIPS_Instruction_Set/img/Memory.png",
-    "CPE_300/Modules/5_MIPS_Instruction_Set/img/endian.png",
     "CPE_300/Modules/5_MIPS_Instruction_Set/img",
     "CPE_300/Modules/5_MIPS_Instruction_Set",
     "CPE_300/Modules/5_MIPS_Instruction_Set",
