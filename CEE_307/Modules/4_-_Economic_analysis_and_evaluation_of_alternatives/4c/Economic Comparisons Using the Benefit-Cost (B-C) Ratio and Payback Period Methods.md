@@ -90,7 +90,7 @@ This leads to
 - $(P/A,i,N_P)=\frac{P}{(A_R-A_C)}$
 Substituting the expression for $(P/A,i,N_P)$ we get
 - $(\frac{(1+i)^{N_P}-1}{i(1+i)^{N_P}})=\frac{P}{(A_R-A_C)}$
-Which reduces to $N_P=\frac{ln(A_R-A_C)-ln(A_R-A_C-Pi)}{ln(1+i)}\rightarrow$ The discounted payback period.
+Which reduces to $N_P=\frac{ln(A_R-A_C)-ln(A_R-A_C-P\times i)}{ln(1+i)}\rightarrow$ The discounted payback period.
 If the periodic cash flows are non-uniform, then the discounted payback period is the minimum value of Np that satisfies the following relationship for the cumulative present worth of the net revenues, i.e.,
 - $\sum_{k=1}^{N_P}(A_{Rk}-A_{Ck})\times(P/F,i,k)\ge P$
 where $A_{Rk}$ and $A_{Ck}$ are the revenue and cost for period $k$, respectively.
@@ -99,7 +99,7 @@ Similar to the simple payback period, this can be determined graphically, in thi
 # Significance of the Payback Period
 - When the payback period is used for economic analysis, the objective is normally to recover the initial investment as quickly as possible or within a desired timeframe.
 - Although the discounted payback period is the more appropriate one to use, the simple payback period is sometimes used for quick comparison between alternatives because it is easy to calculate.
-- When comparing mutually exclusive alternatives using this method, the alternatev with the **shortest payback period** would normally be preferred.
+- When comparing mutually exclusive alternatives using this method, the alternative with the **shortest payback period** would normally be preferred.
 - However, it should be noted that the alternative with the shortest payback period <u>may not</u> necessarily be the most economical one over the entire service lives or study period.
 The reason being that the payback period does <u>not</u> consider all the cash flows over the entire service life, it **ignores all the cash flows beyond the payback period**.
 For example, an alternative with the shortest payback period may have significantly lower revenues than the competing alternative beyond the payback period, resulting in a lower net PW over the service life compared to the competing alternative.
