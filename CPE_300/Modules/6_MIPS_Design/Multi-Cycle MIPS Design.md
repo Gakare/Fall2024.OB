@@ -18,3 +18,5 @@ This gives us a question on if we can improve this design in order to not waste 
 - Higher clock speed due to the cycle split.
 - Simpler instructions run faster.
 - Can reuse expensive hardware on multiple cycles, so the cycle can benefit.
+![[Multicycle Processor Design.png]]
+- Buffer registers are introduced between cycles.
