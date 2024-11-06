@@ -85,3 +85,70 @@ Graphical representation
 		- If $d_{DB,k}\le d_{SL,k}$, then set $d_k=d_{SL,k}$, and go to step 3. This is the year that the depreciations will switch from DB to SL.
 	3. The depreciations for the remaining years will be constant at a value equal to $d_{SL,k}$
 Note that it is always the case that the first few years of depreciation, the DB depreciation are going to be higher and therefore the ones selected, and the straight lines depreciation s are going to be in the last few years.
+
+# Part 2
+# Depreciation for tax purposes in the USA
+Introduction
+- In the USA, depreciation is a ==tax-deductible expense==, meaning that depreciation expenses are deducted from gross income before calculating the income tax.
+- Only for ==assets used for business activities== (i.e., for income generation) are allowed to claim depreciation as a tax-deductible expense. As such, you cannot, for example, claim depreciation of your personal vehicle or home on your taxes.
+- ==Depreciable assets must have a determinable useful life== that is longer than one year. Assets with service lives of a year or less are considered part of ==operation== and ==maintenance costs==. Assets that do not a determinable useful life, such as "land", are not depreciable for tax purposes.
+- Assets must wear out, decay, get used up, become obsolete, or lose value from natural causes
+- Depreciation method:
+	- **Modified Accelerated Cost Recovery System (MACRS)**
+	- Passed by the US Congress in <u>1986</u> and modified under the "Tax Cuts and Jobs Act (TCJA)" in 2017.
+	- Depreciation method and factors depend on type of asset, namely:
+		1. ==Non-real estate property==, such as equipment, furniture, vehicles, etc., and
+		2. ==Real-estate property==: Residential and non-residential
+- This class will cover depreciation only for **non-real estate capital assets**.
+# The MACRS Methods for Non-real Estate Capital Assets
+# General Information
+- Depreciation recovery period
+	- It is a function of "class life" of the asset
+	- Class life: It is the **median service life** of the asset, also known as Asset Depreciation Range (ADR) and is typically shorter than the average service life. **Table 7-2** in the textbook has a partial list of assets and their class lives. The complete list is available in Internal Revenue Service (IRS) publications.
+- Methods of calculation: A business has the option of selecting one of the following MACRS methods
+1. The **General Depreciation System (GDS)** or
+2. The **Alternative Depreciation System (ADS)**
+![[Table 7-2.png]]
+# The General Depreciation System (GDS)
+- <u>Recovery period</u>, N, which is also known as "<u>property class</u>", is based on the class life of the asset (Tables 7-2, 7-4).
+	For example, an asset with a <u>5-year recovery period under GDS</u> method of depreciation is said to be in the "<u>5-year GDS property class</u>".
+- <u>Method</u> of calculating annual depreciations is based on **DB method with switch to SL**, such that
+	- 200% DB is used for 10 years and under property classes, and
+	- 150% DB is used for 15- and 20-year property classes
+	- All calculations are based on salvage <u>value of zero</u>.
+	- Depreciation factors are <u>summarized in Table 7-3</u> in the textbook
+- Calculations of GDS depreciations
+	- Table 7-3 has a summary of the annual depreciation factors, which are based on the DB with switch to straight line, as mentioned earlier
+	- Depreciation in year $k$, $d_k=$ (factor for year $k$)$\times$(cost basis)
+	- The "half-year convention": This refers to the application of only half of the full-year depreciation for the <u>first year</u> of depreciation and either the <u>last year</u> of ownership or the last year of depreciation, whichever comes first, i.e.,
+	- Therefore, if the recovery period is N years, depreciations are going to be spread over N+1 calendar years. For example, for a 5-year recovery period, depreciations are spread over six calendar years, as shown below.
+	![[six calendar years.png]]
+![[Table 7-3.png]]
+# Example:
+Cost basis, $B=\$30,000$
+GDS Recovery Period = 5 years
+Depreciation in year 1 = 0.2(\$30,000) = \$6,000
+Depreciation in year 2 = 0.32(\$30,000) = \$9,600
+# The Alternative Depreciation System (ADS)
+- <u>Recovery Period</u>, N, is based on the class life of the asset (Tables 7-2), and is normally longer than the GDS recovery period. Stretching the depreciation for a longer period is designed to be preferable to business that may not be profitable enough in the early years to be able to take advantage of the tax benefits of depreciation.
+- <u>Methods</u> of depreciation - Straight line depreciation
+- Similar to the GDS method, the **half-year convention** has to be applied for the first year of depreciation and either the last year of depreciation or the last year of ownership, whichever comes first.
+# Example (15:55)
+A property with a cost basis of \$30,000 and 6-year ADS recovery period will have the following depreciations:
+# Summary
+- Depreciations for tax purposes are based on ==**calendar years**==. For example, an asset bought in June 2018 and kept for <u>two years</u> until May 2020, will have <u>three years</u> of depreciation, namely, 2018, 2019, and 2020.
+
+- Steps for application of the MACRS method of depreciation:
+	1. Determine depreciation recovery period from Table 7-2 or 7-4.
+	2. Determine the depreciation factors for each year of depreciation, i.e.,
+		a. For GDS, the factors are given in Table 7-3
+		b. For ADS, calculate the factors using straight line depreciations based on the recovery period from Table 7-2.
+		In both cases use the <u>half-year convention</u> whenever appropriate.
+	3. Calculate the depreciations and book values based on the factors determine from step 2.
+- Choosing between the GDS and ADS methods of depreciation
+	- For any given asset, a taxpayer may elect to use any of the two methods, i.e., GDS or ADS.
+	- However, the decision has to be made in the first year of depreciation of the property, and whatever method is selected then, it has to be used throughout the period of ownership or of depreciation recovery.
+	- In general, a company will choose the depreciation method that gives the company a tax advantage, i.e., the method that will result in higher tax <u>savings</u>.
+		- Module 8 has a more detailed example that illustrates this concept.
+# Example 5 (20:07)
+- In April 2020, Jane Doe bought office equipment for use in her company headquarters. The equipment was bought for \$58,800 plus \$1,200 for delivery. She plans to use it for **three years** and sell it in March 2023 for an estimated \$25,000. Determine the equipment's annual depreciations and its book value at the time of disposal in 2023 if she chooses to use the MACRS-GDS method of depreciation for tax purposes.
