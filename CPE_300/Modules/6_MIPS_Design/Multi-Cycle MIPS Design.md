@@ -20,3 +20,6 @@ This gives us a question on if we can improve this design in order to not waste 
 - Can reuse expensive hardware on multiple cycles, so the cycle can benefit.
 ![[Multicycle Processor Design.png]]
 - Buffer registers are introduced between cycles.
+# Multi-Cycle Mips (Performance Analysis)
+![[Performance.png]]
+![[Performance Cont.png]]
