@@ -4,63 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "04c06d4111965d04",
+        "id": "1b1d23957efdc45e",
         "type": "tabs",
         "children": [
           {
-            "id": "f89ba0baec691496",
+            "id": "17fea18c5d6502bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/9_-_Economic_Analysis_With_Inflation_and_Price_Changes/Inflation and Price Changes.md",
+                "file": "CPE_300/Modules/10_Arm/Arm Instruction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inflation and Price Changes"
+              "title": "Arm Instruction"
             }
           },
           {
-            "id": "408e73b2019b3c84",
+            "id": "5df19fb65f608391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/8_Economic_Analysis_With_After-tax_cash_flows/Economic Analysis of After-Tax Cash Flows.md",
+                "file": "CPE_300/Modules/10_Arm/ARM Instruction Formats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Economic Analysis of After-Tax Cash Flows"
-            }
-          },
-          {
-            "id": "c8cb133cab7217cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/Depreciation of Capital Assets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Depreciation of Capital Assets"
-            }
-          },
-          {
-            "id": "8ba1413a1768c3e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3a - Introduction to the concept of the time-value of money and compound interest formulae"
+              "title": "ARM Instruction Formats"
             }
           }
         ],
@@ -207,34 +179,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "408e73b2019b3c84",
+  "active": "5df19fb65f608391",
   "lastOpenFiles": [
+    "CPE_300/Modules/10_Arm/img/src2 - register.png",
+    "CPE_300/Modules/10_Arm/img/imm src2 ex 2.png",
+    "CPE_300/Modules/10_Arm/img/Mnemonic.png",
+    "CPE_300/Modules/10_Arm/ARM Instruction Formats.md",
+    "CPE_300/Modules/10_Arm/img/imm instr ex.png",
+    "CPE_300/Modules/10_Arm/img/imm src2.png",
+    "CPE_300/Modules/10_Arm/img/rot.png",
+    "CPE_300/Modules/10_Arm/img/ROR.png",
+    "CPE_300/Modules/10_Arm/img/Src2.png",
+    "Pasted image 20241118214026.png",
+    "CPE_300/Modules/10_Arm/img/funct spec.png",
+    "CPE_300/Modules/10_Arm/img/Data-Processing Format.png",
+    "CPE_300/Modules/10_Arm/Arm Instruction.md",
+    "CPE_300/Modules/10_Arm/img",
+    "CPE_300/Modules/10_Arm",
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
     "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/Depreciation of Capital Assets.md",
     "CEE_307/Modules/8_Economic_Analysis_With_After-tax_cash_flows/Economic Analysis of After-Tax Cash Flows.md",
     "CEE_307/Modules/9_-_Economic_Analysis_With_Inflation_and_Price_Changes/Inflation and Price Changes.md",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3c/3c - Nominal & Effective Interest Rates.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
     "CEE_307/Modules/9_-_Economic_Analysis_With_Inflation_and_Price_Changes/img",
-    "CEE_307/Modules/9_-_Economic_Analysis_With_Inflation_and_Price_Changes/img/CPI.png",
-    "Untitled.md",
     "CEE_307/Modules/9_-_Economic_Analysis_With_Inflation_and_Price_Changes",
     "CPE_300/Modules/7_Cache_Memory/Direct Mapped Cache.md",
     "CPE_300/Modules/6_MIPS_Design/Multi-Cycle MIPS Design.md",
     "CEE_307/Modules/8_Economic_Analysis_With_After-tax_cash_flows",
-    "CPE_300/Modules/6_MIPS_Design/img/Performance Cont.png",
-    "CPE_300/Modules/6_MIPS_Design/img/Performance.png",
     "CPE_300/Modules/6_MIPS_Design/MIPS Subset Design.md",
     "CPE_300/Modules/7_Cache_Memory",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img/Table 7-3.png",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img/six calendar years.png",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img/Table 7-2.png",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img/DB depreciation.png",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img/linear depreciation.png",
     "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img/Depreciation.png",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets",
-    "CPE_300/Modules/6_MIPS_Design/img/Multicycle Processor Design.png"
+    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets"
   ]
 }
