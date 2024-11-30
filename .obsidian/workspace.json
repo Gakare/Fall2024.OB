@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "9dddc9cc22b6eb20",
+        "id": "ac9c290d6a3c2214",
         "type": "tabs",
         "children": [
           {
-            "id": "0022951870c72819",
+            "id": "74befecc8edee34d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/Replacement Analysis of Capital Assets.md",
+                "file": "CEE_307/Modules/11_-_Economic_Analysis_of_Public_Projects/11a. Economic Analysis of Public Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replacement Analysis of Capital Assets"
+              "title": "11a. Economic Analysis of Public Projects"
+            }
+          },
+          {
+            "id": "2c03aeba60f9e782",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3a - Introduction to the concept of the time-value of money and compound interest formulae"
+            }
+          },
+          {
+            "id": "9faa33ab0c1b045c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CEE_307/Modules/11_-_Economic_Analysis_of_Public_Projects/11b. Introduction to Ethics in Engineering Economics Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11b. Introduction to Ethics in Engineering Economics Analysis"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,8 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0022951870c72819",
+  "active": "9faa33ab0c1b045c",
   "lastOpenFiles": [
+    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
+    "CEE_307/Modules/11_-_Economic_Analysis_of_Public_Projects/11a. Economic Analysis of Public Projects.md",
+    "CEE_307/Modules/11_-_Economic_Analysis_of_Public_Projects/11b. Introduction to Ethics in Engineering Economics Analysis.md",
+    "CEE_307/Modules/11_-_Economic_Analysis_of_Public_Projects/img",
+    "CEE_307/Modules/11_-_Economic_Analysis_of_Public_Projects/img/table 1-1.png",
+    "CEE_307/Modules/9_-_Economic_Analysis_With_Inflation_and_Price_Changes/Inflation and Price Changes.md",
+    "CEE_307/Modules/8_Economic_Analysis_With_After-tax_cash_flows/Economic Analysis of After-Tax Cash Flows.md",
+    "CEE_307/Modules/11_-_Economic_Analysis_of_Public_Projects",
+    "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/Replacement Analysis of Capital Assets.md",
     "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/img/Anal2 graph2.png",
     "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/img/anal graph 2.png",
     "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/img/graph2.png",
@@ -174,21 +212,15 @@
     "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/img/Economic Lifetime CFD.png",
     "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/img",
     "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/img/Economic Lifetime.png",
-    "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets/Replacement Analysis of Capital Assets.md",
     "CEE_307/Modules/10_-_Replacement_Analysis_of_Capital_Assets",
     "10",
     "CPE_300/Modules/10_Arm/ARM Instruction Formats.md",
     "CPE_300/Modules/10_Arm/img/src2 - register.png",
     "CPE_300/Modules/10_Arm/img/imm src2 ex 2.png",
-    "CPE_300/Modules/10_Arm/img/Mnemonic.png",
-    "CPE_300/Modules/10_Arm/img/imm instr ex.png",
     "CPE_300/Modules/10_Arm/Arm Instruction.md",
     "CPE_300/Modules/10_Arm/img",
     "CPE_300/Modules/10_Arm",
-    "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3a/3a - Introduction to the concept of the time-value of money and compound interest formulae.md",
     "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/Depreciation of Capital Assets.md",
-    "CEE_307/Modules/8_Economic_Analysis_With_After-tax_cash_flows/Economic Analysis of After-Tax Cash Flows.md",
-    "CEE_307/Modules/9_-_Economic_Analysis_With_Inflation_and_Price_Changes/Inflation and Price Changes.md",
     "CEE_307/Modules/3_-_Principles_of_the_Time-Value_of_Money/3c/3c - Nominal & Effective Interest Rates.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4b/The Internal Rate of Return (IRR) Method.md",
     "CEE_307/Modules/4_-_Economic_analysis_and_evaluation_of_alternatives/4a/Economic Comparisons Using Present Worth (PW), Future Worth (FW) and Annual Worth (AW) Methods.md",
@@ -197,8 +229,6 @@
     "CPE_300/Modules/7_Cache_Memory/Direct Mapped Cache.md",
     "CPE_300/Modules/6_MIPS_Design/Multi-Cycle MIPS Design.md",
     "CEE_307/Modules/8_Economic_Analysis_With_After-tax_cash_flows",
-    "CPE_300/Modules/6_MIPS_Design/MIPS Subset Design.md",
-    "CPE_300/Modules/7_Cache_Memory",
-    "CEE_307/Modules/7_-_Depreciation_of_Capital_Assets/img"
+    "CPE_300/Modules/6_MIPS_Design/MIPS Subset Design.md"
   ]
 }
