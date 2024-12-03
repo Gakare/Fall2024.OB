@@ -75,7 +75,7 @@ Graphical representation
 - <u>Method</u>: Combines the use of declining balance (DB) and straight line (SL) methods.
 - <u>Steps</u>:
 	1. Compute DB depreciation, $d_{DB,k} = R\times BV_{k-1}$
-		and SL depreciation, $d_{SL,k}=\frac{BV_{k-1}}{N-k+1}$ for year k, (instead of \frac{B}{N})
+		and SL depreciation, $d_{SL,k}=\frac{BV_{k-1}}{N-k+1}$ for year k, (instead of $\frac{B}{N}$)
 		where
 			$BV_{k-1} =$ book value at beginning of year k (end of year k-1)
 			$N-k+1=$ number of years remaining for depreciation
