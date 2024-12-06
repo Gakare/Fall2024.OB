@@ -8,7 +8,7 @@ Let
 - $P_B=$ Price in base period, $B$
 - $P_F=$ Price in the future period, $F$
 - N = The number of periods (= F - B)
-Then, the average inflation rate per period over the N periods,
+Then, the ==average inflation rate per period== over the N periods,
 - $f=(\frac{P_F}{P_B})^{1/N}-1$,
 Therefore, given an inflation rate and base price, the future price after N Periods,
 - $P_F=P_B(1+F)^N$
@@ -28,7 +28,7 @@ Let
 - $CPI_B = CPI$ value for the base year B,
 - $CPI_F = CPI$ value for the future year F,
 	- $N = F - B$, this is number of years.
-The average annual inflation rate in that time period,
+The ==average annual inflation rate== in that time period,
 - $f=(\frac{CPI_F}{CPI_B})^{\frac{1}{N}}-1$
 # Cash Flow Terminologies in Inflation Analysis
 - There are two definitions of cash flows designed to distinguis between cash flows that have been adjusted for inflation (typically known as "real dollars") from those thta have not been adjustet for inflation (typically known as "actual dollars").
